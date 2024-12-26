@@ -1,0 +1,1913 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <meta content="format=html5;url=//h5.17k.com/" name="mobile-agent">
+    <title>男生_小说分类_完结小说分类_免费小说分类-17K小说网</title>
+    <meta name="keywords" content="男生,小说分类,完结小说分类,免费小说分类,17K小说网">
+    <meta name="Description" content="17K小说网(17k.com)创建于2006年，原名一起看小说网，是中文在线旗下集创作、阅读于一体的在线阅读网站。我们以“让每个人都享受创作的乐趣”为使命，提供玄幻奇幻、都市言情、武侠仙侠、青春校园、穿越架空、惊悚悬疑、历史军事、爆笑同人、经典文学、二次元等在线阅读以及免费下载。">
+    <link rel="stylesheet" href="//static.17k.com/skin/main.css?v=0918">
+
+<script async="" src="https://static.17k.com/lib/sa-sdk/sensorsdata.min.js" charset="UTF-8"></script><script src="https://hm.baidu.com/hm.js?9793f42b498361373512340937deb2a0"></script><script src="//g.alicdn.com/frontend-lib/frontend-lib/2.3.59/antidom_240527.js"></script><script src="//g.alicdn.com/frontend-lib/frontend-lib/2.3.59/interfaceacting240527.js"></script><script type="text/javascript" src="//static.17k.com/lib/vConsole/vconsole.min.js?v=0918"></script>
+
+<script type="text/javascript" src="//static.17k.com/js/main.js?v=0918"></script>
+
+<script type="text/javascript" src="//static.17k.com/www/Q/Q.js"></script>
+<!--<link href="//static.17k.com/www/skin/main_old.css" rel="stylesheet" type="text/css"/>-->
+<!--重构-->
+<link rel="stylesheet" href="//static.17k.com/www/skin/main.css?v=0918">
+<script type="text/javascript" src="//static.17k.com/www/js/main.js?v=0918"></script>
+    <script src="//static.17k.com/www/js/index.js?v=0918" type="text/javascript"></script>
+    <link rel="stylesheet" href="//static.17k.com/www/skin/search/search.css?v=1735200879">
+    <link rel="stylesheet" href="//static.17k.com/www/skin/search/tags-color.css">
+    <link rel="stylesheet" href="//static.17k.com/www/skin/search/chosen.css">
+    <script type="text/javascript" src="//static.17k.com/www/js/search.js" defer="" crossorigin=""></script>
+<link rel="stylesheet" href="//static.17k.com/www/skin/helpBartool.css"></head>
+<body class="index">
+
+<link rel="stylesheet" href="//static.17k.com/www/skin/17k_header.css">
+<div class="Header">
+	<div class="head_nav">
+		<div class="head_box">
+			<a class="now" href="//www.17k.com">17K小说</a>
+			<a target="_blank" href="//www.4yt.net/">四月天女生</a>
+			<a target="_blank" href="//author.wanzhangbook.com/">万丈书城</a>
+			<a target="_blank" href="//passport.mbookcn.com/passport">迈步文学</a>
+		</div>
+	</div>
+	<div class="cont_box">
+		<dl class="nav">
+			<dd class="login" id="header_login_user">
+				<span class="icon"></span>
+				<a href="javascript:k.login('login')">登录</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+				<a href="javascript:k.login('register')">注册</a>
+			</dd>
+			<dd class="histroy">
+				<div class="tit">
+					<span class="icon"></span>
+					<a target="_blank" href="//user.17k.com/www/bookshelf/read.html">看过</a>
+				</div>
+			</dd>
+			<dd class="booklib">
+				<div class="tit">
+					<span class="icon"></span>
+					<a target="_blank" href="//user.17k.com/www/bookshelf">书架</a>
+				</div>
+			</dd>
+			<dd class="message" id="header_17k_message">
+				<div class="tit">
+					<span class="icon"></span>
+					<a href="javascript:k.userMessage()">消息</a>
+				</div>
+			</dd>
+			<dd class="write">
+				<span class="icon"></span>
+				<a href="javascript:k.login(function(){location.href='//author.17k.com/information/index.html'})">写书</a>
+			</dd>
+			<dd class="recharge">
+				<span class="icon"></span>
+				<a target="_blank" href="//pay.17k.com/">充值</a>
+			</dd>
+		</dl>
+
+		<a class="logo" href="//www.17k.com/"></a>
+
+		<form class="so" target="_blank" action="//search.17k.com/search.xhtml">
+			<input type="hidden" name="c.st" value="0">
+			<input value="近战狂兵" class="q" type="text" name="c.q" onfocus="this.value==this.defaultValue&amp;&amp;this.select()">
+			<input class="m" type="submit" value="搜索">
+		</form>
+	</div>
+</div>
+<script type="text/javascript" src="//static.17k.com/www/js/17k_header.js?v=18"></script>
+
+
+<link href="//static.17k.com/www/skin/17k_nav.css" rel="stylesheet">
+<div class="Nav">
+	<div>
+		<a href="//www.17k.com/" target="_blank" class=""><span>首页</span></a>
+		<a href="//www.17k.com/top/" target="_blank"><span>排行榜</span></a>
+		<a href="//www.17k.com/all" target="_blank" class="now"><span>分类</span></a>
+		<a href="//www.17k.com/man/" target="_blank"><span>17K男生</span></a>
+		<a href="//www.17k.com/mm/" target="_blank"><span>17K女生</span></a>
+		<a href="//www.17k.com/ip/" target="_blank"><span>IP改编</span></a>
+		<a href="//www.17k.com/meta/" target="_blank"><span>元宇宙</span></a>
+		<a href="//www.17k.com/mianfei/" target="_blank"><span>免费小说</span></a>
+		<a href="//www.17k.com/quanben/" target="_blank"><span>完本小说</span></a>
+		<a class="mobile" href="//www.17k.com/download/"><span>APP端</span>
+			<img alt="微信二维码" class="hover" src="//static.17k.com/www/pic/erweima2.png" srcset="//static.17k.com/www/pic/erweima2_2x.png 2x">
+		</a>
+		<!--<a href="//wan.17k.com/jump/nyfpl71" target="_blank"><span>游戏中心</span></a>-->
+		<a class="write_book" href="//author.17k.com/information/index.html" target="_blank" style="background-color: rgb(227, 100, 17); background-position: initial initial; background-repeat: initial initial;">
+			<span>我要写书</span>
+		</a>
+		<!--<a class="mobile" href="https://author.17k.com/ck/author/article/content/217.html"><span>官方书友群</span>-->
+		<!--	<img alt="官方书友群"-->
+		<!--		 class="hover"-->
+		<!--		 src="//static.17k.com/www/pic/erweima_commu.jpg"-->
+		<!--		 srcset="//static.17k.com/www/pic/erweima_commu.jpg 2x">-->
+		<!--</a>-->
+		<script type="text/javascript">
+			k('div.Nav div a').forEach(function (a) {
+				if (location.href.indexOf(a.href) === 0) {
+					this.item(0).className = '';
+					a.className = 'now'
+				}
+			})
+			k('div.Nav div a.write_book').style({
+				background: (function (path) {
+					if (path.indexOf('/man') === 0) {
+						return '#025995'
+					} else if (path.indexOf('/mm') === 0) {
+						return '#75A462'
+					} else {
+						return '#E36411'
+					}
+
+				}(location.pathname))
+			})
+		</script>
+	</div>
+</div>
+<div class="Banner_ad"></div>
+<!-- 开始  -->
+<div class="main searchjg">
+    <div class="allfl">
+        <span class="tl1121">
+           <em class="books">17K全站有<strong>4455</strong>部符合条件的作品</em>
+            <a href="//www.17k.com/news/1021.html" target="_blank">[书库使用说明]</a>
+        </span>
+        <span class="tr1121">
+            17K全站共有3542958部作品
+        </span>
+    </div>
+
+    <div class="fllist" style="display: block;">
+        <div class="fllist-item">
+            <dl>
+                <dt>作品类别：</dt>
+
+                <dd class="allzplb">
+                    <!--
+                    <a href="/lib/book/0_0_0_0_0_0_0_0_1.html" >全部</a>
+                     <br>
+                     -->
+                </dd>
+
+                <dd class="allzplb" style="padding-left: 60px;">
+                </dd>
+                                    <dd class="allzplb" style="padding-left: 60px;">
+
+                        <a href="/all/book/2_0_0_0_3_0_1_0_1.html" class="fb"><span style="font-weight: bold;">男生</span></a>
+                                                <a href="/all/book/2_21_0_0_3_0_1_0_1.html">玄幻奇幻</a>
+                                                <a href="/all/book/2_24_0_0_3_0_1_0_1.html">仙侠武侠</a>
+                                                <a href="/all/book/2_3_0_0_3_0_1_0_1.html">都市小说</a>
+                                                <a href="/all/book/2_22_0_0_3_0_1_0_1.html">历史军事</a>
+                                                <a href="/all/book/2_23_0_0_3_0_1_0_1.html">游戏竞技</a>
+                                                <a href="/all/book/2_14_0_0_3_0_1_0_1.html">科幻末世</a>
+                                                <a href="/all/book/2_29_0_0_3_0_1_0_1.html">悬疑推理</a>
+                                                <a href="/all/book/2_30_0_0_3_0_1_0_1.html">轻小说</a>
+                        
+                                            </dd>
+                                    <dd class="allzplb" style="padding-left: 60px;">
+
+                        <a href="/all/book/3_0_0_0_3_0_1_0_1.html"><span style="font-weight: bold;">女生</span></a>
+                                                <a href="/all/book/3_17_0_0_3_0_1_0_1.html">现代言情</a>
+                                                <a href="/all/book/3_5_0_0_3_0_1_0_1.html">古代言情</a>
+                                                <a href="/all/book/3_18_0_0_3_0_1_0_1.html">幻想言情</a>
+                                                <a href="/all/book/3_20_0_0_3_0_1_0_1.html">浪漫青春</a>
+                        
+                                            </dd>
+                
+            </dl>
+        </div>
+
+        <div class="fllist-item">
+            <dl>
+                <dt>作品字数：</dt>
+                <dd>
+                    <a href="/all/book/2_0_0_0_3_0_1_0_1.html" class="fb">全部</a>
+                    <a href="/all/book/2_0_0_1_3_0_1_0_1.html">30万以下</a>
+                    <a href="/all/book/2_0_0_2_3_0_1_0_1.html">30万-50万</a>
+                    <a href="/all/book/2_0_0_3_3_0_1_0_1.html">50万-100万</a>
+                    <a href="/all/book/2_0_0_4_3_0_1_0_1.html">100万-200万</a>
+                    <a href="/all/book/2_0_0_5_3_0_1_0_1.html">200万以上</a>
+                </dd>
+            </dl>
+        </div>
+
+        <div class="fllist-item">
+            <dl>
+                <dt>写作进度：</dt>
+                <dd>
+                    <a href="/all/book/2_0_0_0_0_0_1_0_1.html">全部</a>
+                    <a href="/all/book/2_0_0_0_1_0_1_0_1.html">连载中</a>
+                    <a href="/all/book/2_0_0_0_3_0_1_0_1.html" class="fb">已完本</a>
+                </dd>
+            </dl>
+        </div>
+
+        <div class="fllist-item">
+            <dl>
+                <dt>排序方式：</dt>
+                <dd>
+                    <a href="/all/book/2_0_0_0_3_0_1_0_1.html" class="fb">默认</a>
+                    <a href="/all/book/2_0_0_0_3_1_1_0_1.html">总字数</a>
+                    <a href="/all/book/2_0_0_0_3_2_1_0_1.html">周点击</a>
+                    <a href="/all/book/2_0_0_0_3_3_1_0_1.html">月点击</a>
+                    <a href="/all/book/2_0_0_0_3_4_1_0_1.html">总点击</a>
+                    <a href="/all/book/2_0_0_0_3_5_1_0_1.html">周收藏</a>
+                    <a href="/all/book/2_0_0_0_3_6_1_0_1.html">月收藏</a>
+                    <a href="/all/book/2_0_0_0_3_7_1_0_1.html">总收藏</a>
+                </dd>
+            </dl>
+        </div>
+
+        <div class="fllist-item">
+            <dl>
+                <dt>作品状态：</dt>
+                <dd>
+                    <a href="/all/book/2_0_0_0_3_0_0_0_1.html">不限</a>
+                    <a href="/all/book/2_0_0_0_3_0_1_0_1.html" class="fb">只看免费</a>
+                    <a href="/all/book/2_0_0_0_3_0_2_0_1.html">只看精选</a>
+                    <a href="/all/book/2_0_0_0_3_0_3_0_1.html">只看包月</a>
+                </dd>
+            </dl>
+        </div>
+
+    </div>
+
+    <div class="search-list">
+        <div class="listtit">
+            <div class="titl">
+                <strong>每页显示30部小说</strong>
+            </div>
+            <div class="titr titbut">
+                <a href="/all/book/2_0_0_0_3_0_1_1_1.html" class="qh"><span>切换到图文</span></a>
+            </div>
+        </div>
+                <!-- 文字模式 ---------------------------------------------------------------------------->
+        <div class="alltable">
+            <div style="display:none;" id="mydiv1">
+                        <div class="inner">
+                            <dl>
+                                <dt><a href="//www.17k.com/book/3575237.html" target="_blank"><img src="http://cdn.static.17k.com/book/189x272/37/52/3575237.jpg-189x272?v=1698993329000"></a></dt>
+                                <dd>
+                                    <ul>
+                                        <li><strong><a target="_blank" href="//www.17k.com/book/3575237.html">我的修仙自带滤镜</a></strong></li>
+                                        <li class="zz">
+                                            作者：<a href="//user.17k.com/see/www/74591571.html" target="_blank">闪电猫</a>
+                                        </li>
+                                        <li class="bq10">
+                                            标签：
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=道士" target="_blank" title="道士">道士&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=搞笑" target="_blank" title="搞笑">搞笑&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=修仙" target="_blank" title="修仙">修仙&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=脑补" target="_blank" title="脑补">脑补&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=迪化" target="_blank" title="迪化">迪化&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=脑洞" target="_blank" title="脑洞">脑洞&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=轻松" target="_blank" title="轻松">轻松&gt;</a>
+                                            
+                                        </li>
+                                        <li>
+                                            <p>简介：<a href="//www.17k.com/list/3575237.html" target="_blank">        主角误入山林迷失了方向，卜之大凶，穿越迷雾却到了神仙鬼怪的世界，不仅找不到修仙的门路，还要处理骗子老道带来的各种麻烦。仰仗各路神仙鬼怪们丰富的脑补和想象力，主角总是逢凶化吉。但也不由自主的卷入了这场巨大的阴谋漩涡中。
+       “好不容易救了一只狐狸精，凭什么别人遇到的是美艳女狐，我遇到的就是公狐狸啊！”</a></p>
+                                        </li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+
+                        <div class="innerbut">
+                            <a href="//www.17k.com/list/3575237.html" target="_blank" class="ts">在线阅读</a>
+                            <a href="javascript:k.book(3575237).mark();">收藏本书</a>
+                        </div>
+                    </div><div style="display:none;" id="mydiv2">
+                        <div class="inner">
+                            <dl>
+                                <dt><a href="//www.17k.com/book/3613484.html" target="_blank"><img src="http://cdn.static.17k.com/book/189x272/84/34/3613484.jpg-189x272?v=0"></a></dt>
+                                <dd>
+                                    <ul>
+                                        <li><strong><a target="_blank" href="//www.17k.com/book/3613484.html">无尽之月</a></strong></li>
+                                        <li class="zz">
+                                            作者：<a href="//user.17k.com/see/www/103920628.html" target="_blank">雪辰SR</a>
+                                        </li>
+                                        <li class="bq10">
+                                            标签：
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=魔法" target="_blank" title="魔法">魔法&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=无尽流" target="_blank" title="无尽流">无尽流&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=重生" target="_blank" title="重生">重生&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=穿越" target="_blank" title="穿越">穿越&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=西方魔法" target="_blank" title="西方魔法">西方魔法&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=西方奇幻" target="_blank" title="西方奇幻">西方奇幻&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=东方魔法" target="_blank" title="东方魔法">东方魔法&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=东方奇幻" target="_blank" title="东方奇幻">东方奇幻&gt;</a>
+                                            
+                                        </li>
+                                        <li>
+                                            <p>简介：<a href="//www.17k.com/list/3613484.html" target="_blank">星霁魔法学院的三年级学生江辰，原本只是想安静完成学业，远离家族束缚。但在学院的祭典之夜，一场突如其来的爆炸毁灭了一切。而当江辰以为自己死去时，他却诡异地回到了一个月前的清晨。
+被困在时间的循环中，江辰发现学院隐藏着巨大的秘密——礼堂的古老石碑、遗迹楼的禁忌力量，甚至同学和导师的行为都暗藏玄机。而更让他震惊的是，他并非唯一一个记得时间循环的人。
+在无限的轮回中，江辰不断尝试阻止毁灭的发生。他学习魔法、寻找线索，与隐藏在循环中的另一个人展开试探性合作。然而，每一次失败都让真相显得更加遥远。
+时间是牢笼，也是钥匙。江辰能否打破循环，拯救学院与自己？还是注定被无尽的轮回吞噬？</a></p>
+                                        </li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+
+                        <div class="innerbut">
+                            <a href="//www.17k.com/list/3613484.html" target="_blank" class="ts">在线阅读</a>
+                            <a href="javascript:k.book(3613484).mark();">收藏本书</a>
+                        </div>
+                    </div><div style="display:none;" id="mydiv3">
+                        <div class="inner">
+                            <dl>
+                                <dt><a href="//www.17k.com/book/3602956.html" target="_blank"><img src="http://cdn.static.17k.com/book/189x272/56/29/3602956.jpg-189x272?v=1724119520000"></a></dt>
+                                <dd>
+                                    <ul>
+                                        <li><strong><a target="_blank" href="//www.17k.com/book/3602956.html">无敌：从病公子横推成圣</a></strong></li>
+                                        <li class="zz">
+                                            作者：<a href="//user.17k.com/see/www/101481558.html" target="_blank">陆游器</a>
+                                        </li>
+                                        <li class="bq10">
+                                            标签：
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=武道" target="_blank" title="武道">武道&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=无敌" target="_blank" title="无敌">无敌&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=世子" target="_blank" title="世子">世子&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=王朝" target="_blank" title="王朝">王朝&gt;</a>
+                                            
+                                        </li>
+                                        <li>
+                                            <p>简介：<a href="//www.17k.com/list/3602956.html" target="_blank">一朝穿越，成了世人眼中的病公子
+这个世界武道称雄，李当歌却在武道难有建树，自己一个先天病弱的病公子，练武就是找死。
+而自己的家世也颇为复杂，虽为国公世子，但一个同父异母的弟弟虎视眈眈的盯着自己，也难以当个二世祖颐养终生。
+这可如何是好？
+好在练武不行，可练气
+虽然练气一道在此界上古之时就已经绝迹。
+但李当歌发现了一个BUG。
+上古练气主推观想之法，绝地天通之后观想法全部废止，无法观想留于脑海
+李当歌另辟蹊径，他把观想法刻在身上了...
+我观想不了我直接刻自己身上体悟不就完了？
+然后...
+我无敌了</a></p>
+                                        </li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+
+                        <div class="innerbut">
+                            <a href="//www.17k.com/list/3602956.html" target="_blank" class="ts">在线阅读</a>
+                            <a href="javascript:k.book(3602956).mark();">收藏本书</a>
+                        </div>
+                    </div><div style="display:none;" id="mydiv4">
+                        <div class="inner">
+                            <dl>
+                                <dt><a href="//www.17k.com/book/3595829.html" target="_blank"><img src="http://cdn.static.17k.com/book/189x272/29/58/3595829.jpg-189x272?v=0"></a></dt>
+                                <dd>
+                                    <ul>
+                                        <li><strong><a target="_blank" href="//www.17k.com/book/3595829.html">手刃刀芒</a></strong></li>
+                                        <li class="zz">
+                                            作者：<a href="//user.17k.com/see/www/74979032.html" target="_blank">A4纸条</a>
+                                        </li>
+                                        <li class="bq10">
+                                            标签：
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=无情冷血" target="_blank" title="无情冷血">无情冷血&gt;</a>
+                                            
+                                        </li>
+                                        <li>
+                                            <p>简介：<a href="//www.17k.com/list/3595829.html" target="_blank">我是一个孤儿，在从小那是都给去深被父母所给去抛弃，然后呢？我被培训成为了一名刺客，我下决心，我无情，天下之无情，我会使用我的双手去完成雇主的嘱托，完成我的任务，大家好，我叫刀疤脸，那是一名拿人钱财，替人消灾的主儿？我无情，我无义，但是，我那也是为了生活，勇闯黑暗之悬崖，踏足天地间，向命运挑战。</a></p>
+                                        </li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+
+                        <div class="innerbut">
+                            <a href="//www.17k.com/list/3595829.html" target="_blank" class="ts">在线阅读</a>
+                            <a href="javascript:k.book(3595829).mark();">收藏本书</a>
+                        </div>
+                    </div><div style="display:none;" id="mydiv5">
+                        <div class="inner">
+                            <dl>
+                                <dt><a href="//www.17k.com/book/3613409.html" target="_blank"><img src="http://cdn.static.17k.com/book/189x272/09/34/3613409.jpg-189x272?v=0"></a></dt>
+                                <dd>
+                                    <ul>
+                                        <li><strong><a target="_blank" href="//www.17k.com/book/3613409.html">妻子的疑心</a></strong></li>
+                                        <li class="zz">
+                                            作者：<a href="//user.17k.com/see/www/35041850.html" target="_blank">幼鲸</a>
+                                        </li>
+                                        <li class="bq10">
+                                            标签：
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=悬疑爱情" target="_blank" title="悬疑爱情">悬疑爱情&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=短篇" target="_blank" title="短篇">短篇&gt;</a>
+                                            
+                                        </li>
+                                        <li>
+                                            <p>简介：<a href="//www.17k.com/list/3613409.html" target="_blank">她，家暴她的继父被杀了，经常打她的花心男友也被杀了。她成为了最大嫌疑人。很多男人都怕跟她结婚会死在她手里，然而她结婚了，嫁了一个柏拉图爱情的丈夫，除了没有肌肤相亲之外，对她还算客气和体贴。她总觉得他有事瞒着她，怀疑他外面有女人。
+冒出来了一个杀人犯，把女人们占有又杀了。她觉得不可能是丈夫，因为她认为丈夫不行。
+凶手到底是谁？她的丈夫瞒着她什么？</a></p>
+                                        </li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+
+                        <div class="innerbut">
+                            <a href="//www.17k.com/list/3613409.html" target="_blank" class="ts">在线阅读</a>
+                            <a href="javascript:k.book(3613409).mark();">收藏本书</a>
+                        </div>
+                    </div><div style="display:none;" id="mydiv6">
+                        <div class="inner">
+                            <dl>
+                                <dt><a href="//www.17k.com/book/3612189.html" target="_blank"><img src="http://cdn.static.17k.com/book/189x272/89/21/3612189.jpg-189x272?v=0"></a></dt>
+                                <dd>
+                                    <ul>
+                                        <li><strong><a target="_blank" href="//www.17k.com/book/3612189.html">炒股日记</a></strong></li>
+                                        <li class="zz">
+                                            作者：<a href="//user.17k.com/see/www/72150690.html" target="_blank">红楼少爷</a>
+                                        </li>
+                                        <li class="bq10">
+                                            标签：
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=都市" target="_blank" title="都市">都市&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=爽文" target="_blank" title="爽文">爽文&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=轻小说" target="_blank" title="轻小说">轻小说&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=日记" target="_blank" title="日记">日记&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=股市" target="_blank" title="股市">股市&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=家庭" target="_blank" title="家庭">家庭&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=异想天开" target="_blank" title="异想天开">异想天开&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=白日做梦" target="_blank" title="白日做梦">白日做梦&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=赔本" target="_blank" title="赔本">赔本&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=盈利" target="_blank" title="盈利">盈利&gt;</a>
+                                            
+                                        </li>
+                                        <li>
+                                            <p>简介：<a href="//www.17k.com/list/3612189.html" target="_blank">有人说，你恨谁就把他引人股市，让他在股市里沉浮，让股市去折磨他，让他痛不欲生。
+我回想把我引入股市的人，是我的一个棋友，在下围棋的时候，他告诉我他在股市挣了两个多月的工资，就用了三天五天的时间。
+听到炒股有这么大的利益，我动心了。
+随后我也进入了股市，因此我几十年，赔了几十万。
+现在我把我的经历写出来。你们千万不要学我，股市有风险，没有相当的知识和技巧，千万不能入市。
+不要学我，在股市里沉沦，一直到如今……</a></p>
+                                        </li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+
+                        <div class="innerbut">
+                            <a href="//www.17k.com/list/3612189.html" target="_blank" class="ts">在线阅读</a>
+                            <a href="javascript:k.book(3612189).mark();">收藏本书</a>
+                        </div>
+                    </div><div style="display:none;" id="mydiv7">
+                        <div class="inner">
+                            <dl>
+                                <dt><a href="//www.17k.com/book/3612814.html" target="_blank"><img src="http://cdn.static.17k.com/book/189x272/14/28/3612814.jpg-189x272?v=1734523812000"></a></dt>
+                                <dd>
+                                    <ul>
+                                        <li><strong><a target="_blank" href="//www.17k.com/book/3612814.html">诸天:龙起深渊</a></strong></li>
+                                        <li class="zz">
+                                            作者：<a href="//user.17k.com/see/www/63878582.html" target="_blank">来不及第一</a>
+                                        </li>
+                                        <li class="bq10">
+                                            标签：
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=龙白眉" target="_blank" title="龙白眉">龙白眉&gt;</a>
+                                            
+                                        </li>
+                                        <li>
+                                            <p>简介：<a href="//www.17k.com/list/3612814.html" target="_blank">人类世界错综复杂，一个生性单纯的少年，身怀疾风剑法，意外开启了疾风剑圣的妖魔之道。
+夕阳下的妖魔，无不胆战心惊的仰望着少年，直到轮回定格在...... </a></p>
+                                        </li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+
+                        <div class="innerbut">
+                            <a href="//www.17k.com/list/3612814.html" target="_blank" class="ts">在线阅读</a>
+                            <a href="javascript:k.book(3612814).mark();">收藏本书</a>
+                        </div>
+                    </div><div style="display:none;" id="mydiv8">
+                        <div class="inner">
+                            <dl>
+                                <dt><a href="//www.17k.com/book/3607767.html" target="_blank"><img src="http://cdn.static.17k.com/book/189x272/67/77/3607767.jpg-189x272?v=1729232877000"></a></dt>
+                                <dd>
+                                    <ul>
+                                        <li><strong><a target="_blank" href="//www.17k.com/book/3607767.html">皇子陷害？我教公主日月当空曌</a></strong></li>
+                                        <li class="zz">
+                                            作者：<a href="//user.17k.com/see/www/93212098.html" target="_blank">登临九霄</a>
+                                        </li>
+                                        <li class="bq10">
+                                            标签：
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=爽文" target="_blank" title="爽文">爽文&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=权谋" target="_blank" title="权谋">权谋&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=穿越" target="_blank" title="穿越">穿越&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=种田" target="_blank" title="种田">种田&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=热血" target="_blank" title="热血">热血&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=智商在线" target="_blank" title="智商在线">智商在线&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=开局" target="_blank" title="开局">开局&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=架空" target="_blank" title="架空">架空&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=历史" target="_blank" title="历史">历史&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=女帝" target="_blank" title="女帝">女帝&gt;</a>
+                                            
+                                        </li>
+                                        <li>
+                                            <p>简介：<a href="//www.17k.com/list/3607767.html" target="_blank">苏凡刚穿越，就发现自己被皇子陷害，面临玷污公主要被杀头的死局。
+想当皇帝你去当，非来惹我做什么？
+本不想卷入夺嫡之争，奈何皇子不长眼，三番两次挑衅苏凡，不想让苏凡在这古代安心当条小咸鱼。
+既然如此，那他只好助五公主登上帝位，日月当空！武曌天下！</a></p>
+                                        </li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+
+                        <div class="innerbut">
+                            <a href="//www.17k.com/list/3607767.html" target="_blank" class="ts">在线阅读</a>
+                            <a href="javascript:k.book(3607767).mark();">收藏本书</a>
+                        </div>
+                    </div><div style="display:none;" id="mydiv9">
+                        <div class="inner">
+                            <dl>
+                                <dt><a href="//www.17k.com/book/3513863.html" target="_blank"><img src="http://cdn.static.17k.com/book/189x272/63/38/3513863.jpg-189x272?v=1732869444000"></a></dt>
+                                <dd>
+                                    <ul>
+                                        <li><strong><a target="_blank" href="//www.17k.com/book/3513863.html">神落天行</a></strong></li>
+                                        <li class="zz">
+                                            作者：<a href="//user.17k.com/see/www/99826924.html" target="_blank">君不在年少</a>
+                                        </li>
+                                        <li class="bq10">
+                                            标签：
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=神魔修仙" target="_blank" title="神魔修仙">神魔修仙&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=宗门修炼" target="_blank" title="宗门修炼">宗门修炼&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=热血少年" target="_blank" title="热血少年">热血少年&gt;</a>
+                                            
+                                        </li>
+                                        <li>
+                                            <p>简介：<a href="//www.17k.com/list/3513863.html" target="_blank">“盛极必衰”，九天十地皆是如此。似乎有一股意志控制这天地，这就注定太平永不会持久。其间无数大能者寻找其中根源，都以身死道消而告终！这背后究竟是什么？</a></p>
+                                        </li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+
+                        <div class="innerbut">
+                            <a href="//www.17k.com/list/3513863.html" target="_blank" class="ts">在线阅读</a>
+                            <a href="javascript:k.book(3513863).mark();">收藏本书</a>
+                        </div>
+                    </div><div style="display:none;" id="mydiv10">
+                        <div class="inner">
+                            <dl>
+                                <dt><a href="//www.17k.com/book/3611226.html" target="_blank"><img src="http://cdn.static.17k.com/book/189x272/26/12/3611226.jpg-189x272?v=0"></a></dt>
+                                <dd>
+                                    <ul>
+                                        <li><strong><a target="_blank" href="//www.17k.com/book/3611226.html">签到修仙却愈发变成邪道</a></strong></li>
+                                        <li class="zz">
+                                            作者：<a href="//user.17k.com/see/www/74229901.html" target="_blank">寻剑三将军</a>
+                                        </li>
+                                        <li class="bq10">
+                                            标签：
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=签到" target="_blank" title="签到">签到&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=系统" target="_blank" title="系统">系统&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=搞笑" target="_blank" title="搞笑">搞笑&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=反派" target="_blank" title="反派">反派&gt;</a>
+                                            
+                                        </li>
+                                        <li>
+                                            <p>简介：<a href="//www.17k.com/list/3611226.html" target="_blank">签到一天送神级功法，签到三天送神秘老爷爷，签到七天送无敌洲际导弹！本以为无敌于世，但渐渐发现了事情的不对劲！
+签到第一天的功法居然是盖世邪功，签到三天的老爷爷的确神秘，他叫血魔老祖，签到七天的洲际导弹将周围的宗门炸了个遍，而我吓得仓皇而逃。
+一路逃亡下，看见空白的现代世界，在妖族秘境中找到了阿尔法公司的遗留，看到的了空白的仙界...
+而我只想做个好人，但是似乎渐行渐远。</a></p>
+                                        </li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+
+                        <div class="innerbut">
+                            <a href="//www.17k.com/list/3611226.html" target="_blank" class="ts">在线阅读</a>
+                            <a href="javascript:k.book(3611226).mark();">收藏本书</a>
+                        </div>
+                    </div><div style="display:none;" id="mydiv11">
+                        <div class="inner">
+                            <dl>
+                                <dt><a href="//www.17k.com/book/3612607.html" target="_blank"><img src="http://cdn.static.17k.com/book/189x272/07/26/3612607.jpg-189x272?v=0"></a></dt>
+                                <dd>
+                                    <ul>
+                                        <li><strong><a target="_blank" href="//www.17k.com/book/3612607.html">穿越之我有超级外挂</a></strong></li>
+                                        <li class="zz">
+                                            作者：<a href="//user.17k.com/see/www/103903219.html" target="_blank">安静的风</a>
+                                        </li>
+                                        <li class="bq10">
+                                            标签：
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=系统" target="_blank" title="系统">系统&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=穿越" target="_blank" title="穿越">穿越&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=搞笑" target="_blank" title="搞笑">搞笑&gt;</a>
+                                            
+                                        </li>
+                                        <li>
+                                            <p>简介：<a href="//www.17k.com/list/3612607.html" target="_blank">林晓是一个悲催的社畜，每天过着朝九晚五，加班无数的苦逼生活。这天，他又被老板骂了个狗血淋头，原因仅仅是他在上班的时候打了个哈欠。
+“这日子没法过了！” 林晓悲愤地走出公司大楼，却没注意到一辆失控的汽车正朝他疾驰而来。
+只听 “砰” 的一声，林晓眼前一黑，失去了意识。
+当他再次醒来的时候，发现自己身处一个陌生的地方。周围是古色古香的建筑，人们都穿着古装。
+“我这是穿越了？” 林晓瞪大了眼睛，不敢相信自己的遭遇。就在他不知所措的时候，脑海中突然响起了一个声音。
+“恭喜宿主穿越成功，超级外挂系统已激活。</a></p>
+                                        </li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+
+                        <div class="innerbut">
+                            <a href="//www.17k.com/list/3612607.html" target="_blank" class="ts">在线阅读</a>
+                            <a href="javascript:k.book(3612607).mark();">收藏本书</a>
+                        </div>
+                    </div><div style="display:none;" id="mydiv12">
+                        <div class="inner">
+                            <dl>
+                                <dt><a href="//www.17k.com/book/3612584.html" target="_blank"><img src="http://cdn.static.17k.com/book/189x272/84/25/3612584.jpg-189x272?v=0"></a></dt>
+                                <dd>
+                                    <ul>
+                                        <li><strong><a target="_blank" href="//www.17k.com/book/3612584.html">神荒战尊</a></strong></li>
+                                        <li class="zz">
+                                            作者：<a href="//user.17k.com/see/www/103903010.html" target="_blank">橙皮C</a>
+                                        </li>
+                                        <li class="bq10">
+                                            标签：
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=小镇" target="_blank" title="小镇">小镇&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=机遇与挑战" target="_blank" title="机遇与挑战">机遇与挑战&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=成长" target="_blank" title="成长">成长&gt;</a>
+                                            
+                                        </li>
+                                        <li>
+                                            <p>简介：<a href="//www.17k.com/list/3612584.html" target="_blank">小说以神秘少年林风为主角展开。首先在边陲小镇青云镇引入主角，通过与地痞的冲突展现其神秘与强大。接着发现神秘遗迹，与怪物战斗并获得修炼法门，开始修炼提升实力。随后前往青云宗，通过考核成为弟子，描写宗门生活中的机遇与挑战，包括被人嫉妒和陷入阴谋。在危机中，林风施展神秘力量化解困境，声名远扬。最后面对东方大陆的危机，林风参加巅峰之战，成为传奇人物并继续踏上修炼之路。整体按照主角的成长历程层层递进，设置不同的挑战和机遇，以丰富的情节和生动的描写展现东方玄幻世界。
+</a></p>
+                                        </li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+
+                        <div class="innerbut">
+                            <a href="//www.17k.com/list/3612584.html" target="_blank" class="ts">在线阅读</a>
+                            <a href="javascript:k.book(3612584).mark();">收藏本书</a>
+                        </div>
+                    </div><div style="display:none;" id="mydiv13">
+                        <div class="inner">
+                            <dl>
+                                <dt><a href="//www.17k.com/book/3608255.html" target="_blank"><img src="http://cdn.static.17k.com/book/189x272/55/82/3608255.jpg-189x272?v=1729511304000"></a></dt>
+                                <dd>
+                                    <ul>
+                                        <li><strong><a target="_blank" href="//www.17k.com/book/3608255.html">无人的深空</a></strong></li>
+                                        <li class="zz">
+                                            作者：<a href="//user.17k.com/see/www/67736365.html" target="_blank">黄榕海</a>
+                                        </li>
+                                        <li class="bq10">
+                                            标签：
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=都市" target="_blank" title="都市">都市&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=青春" target="_blank" title="青春">青春&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=冒险" target="_blank" title="冒险">冒险&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=友情" target="_blank" title="友情">友情&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=热血" target="_blank" title="热血">热血&gt;</a>
+                                            
+                                        </li>
+                                        <li>
+                                            <p>简介：<a href="//www.17k.com/list/3608255.html" target="_blank">大家是否还记起《ME历险记》里头那有趣刺激的冒险？现在，让礼毕向他们也来一场大冒险吧！丢弃在野外的宇宙飞船，它有什么不可告人的秘密？鬼屋探索、神仙之塔、外星生存……更多好玩的冒险等你们来戳。七大徽章有什么功能？戴欣、临国王子也出现，李壮也加入阵营。最终大战，那个传说中的大BOSS居然是礼毕向……</a></p>
+                                        </li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+
+                        <div class="innerbut">
+                            <a href="//www.17k.com/list/3608255.html" target="_blank" class="ts">在线阅读</a>
+                            <a href="javascript:k.book(3608255).mark();">收藏本书</a>
+                        </div>
+                    </div><div style="display:none;" id="mydiv14">
+                        <div class="inner">
+                            <dl>
+                                <dt><a href="//www.17k.com/book/3360278.html" target="_blank"><img src="http://cdn.static.17k.com/book/189x272/78/02/3360278.jpg-189x272?v=1632827615000"></a></dt>
+                                <dd>
+                                    <ul>
+                                        <li><strong><a target="_blank" href="//www.17k.com/book/3360278.html">命运之神和他的命运之书</a></strong></li>
+                                        <li class="zz">
+                                            作者：<a href="//user.17k.com/see/www/80340905.html" target="_blank">风清有云</a>
+                                        </li>
+                                        <li class="bq10">
+                                            标签：
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=命运" target="_blank" title="命运">命运&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=命运之神" target="_blank" title="命运之神">命运之神&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=命运之书" target="_blank" title="命运之书">命运之书&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=逆天改命" target="_blank" title="逆天改命">逆天改命&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=顺应天道" target="_blank" title="顺应天道">顺应天道&gt;</a>
+                                            
+                                        </li>
+                                        <li>
+                                            <p>简介：<a href="//www.17k.com/list/3360278.html" target="_blank">命运之神向大帝请求下界轮回修订命运之书，因为他发现人类逆天改命在命运之书上动了不少手脚。ps:本书风水玄学纯属虚构，请勿深究请勿相信！！！</a></p>
+                                        </li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+
+                        <div class="innerbut">
+                            <a href="//www.17k.com/list/3360278.html" target="_blank" class="ts">在线阅读</a>
+                            <a href="javascript:k.book(3360278).mark();">收藏本书</a>
+                        </div>
+                    </div><div style="display:none;" id="mydiv15">
+                        <div class="inner">
+                            <dl>
+                                <dt><a href="//www.17k.com/book/3611180.html" target="_blank"><img src="http://cdn.static.17k.com/book/189x272/80/11/3611180.jpg-189x272?v=0"></a></dt>
+                                <dd>
+                                    <ul>
+                                        <li><strong><a target="_blank" href="//www.17k.com/book/3611180.html">玛利亚大教堂</a></strong></li>
+                                        <li class="zz">
+                                            作者：<a href="//user.17k.com/see/www/42403029.html" target="_blank">吴禹杭</a>
+                                        </li>
+                                        <li class="bq10">
+                                            标签：
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=二战" target="_blank" title="二战">二战&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=战争" target="_blank" title="战争">战争&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=爱情" target="_blank" title="爱情">爱情&gt;</a>
+                                            
+                                        </li>
+                                        <li>
+                                            <p>简介：<a href="//www.17k.com/list/3611180.html" target="_blank">1941年6月22日，希特勒撕毁苏德互不侵犯条约，1941年7月3日，斯大林向苏联人民发表广播演说，号召全体苏联人民团结起来，全力以赴同希特勒法西斯做殊死的斗争，苏德战争全面爆发。</a></p>
+                                        </li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+
+                        <div class="innerbut">
+                            <a href="//www.17k.com/list/3611180.html" target="_blank" class="ts">在线阅读</a>
+                            <a href="javascript:k.book(3611180).mark();">收藏本书</a>
+                        </div>
+                    </div><div style="display:none;" id="mydiv16">
+                        <div class="inner">
+                            <dl>
+                                <dt><a href="//www.17k.com/book/3402357.html" target="_blank"><img src="http://cdn.static.17k.com/book/189x272/57/23/3402357.jpg-189x272?v=1732097098000"></a></dt>
+                                <dd>
+                                    <ul>
+                                        <li><strong><a target="_blank" href="//www.17k.com/book/3402357.html">极度灵长</a></strong></li>
+                                        <li class="zz">
+                                            作者：<a href="//user.17k.com/see/www/92051295.html" target="_blank">过境狼</a>
+                                        </li>
+                                        <li class="bq10">
+                                            标签：
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=现实" target="_blank" title="现实">现实&gt;</a>
+                                            
+                                        </li>
+                                        <li>
+                                            <p>简介：<a href="//www.17k.com/list/3402357.html" target="_blank">　　大脚从天而降把人类震回了原始时代，到处都是人吃人的恐怖景象……</a></p>
+                                        </li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+
+                        <div class="innerbut">
+                            <a href="//www.17k.com/list/3402357.html" target="_blank" class="ts">在线阅读</a>
+                            <a href="javascript:k.book(3402357).mark();">收藏本书</a>
+                        </div>
+                    </div><div style="display:none;" id="mydiv17">
+                        <div class="inner">
+                            <dl>
+                                <dt><a href="//www.17k.com/book/3611736.html" target="_blank"><img src="http://cdn.static.17k.com/book/189x272/36/17/3611736.jpg-189x272?v=0"></a></dt>
+                                <dd>
+                                    <ul>
+                                        <li><strong><a target="_blank" href="//www.17k.com/book/3611736.html">阿克萨大洪水</a></strong></li>
+                                        <li class="zz">
+                                            作者：<a href="//user.17k.com/see/www/103886248.html" target="_blank">渔家傲北海</a>
+                                        </li>
+                                        <li class="bq10">
+                                            标签：
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=巴以冲突" target="_blank" title="巴以冲突">巴以冲突&gt;</a>
+                                            
+                                        </li>
+                                        <li>
+                                            <p>简介：<a href="//www.17k.com/list/3611736.html" target="_blank">2023年10月7日，两位犹太人和一位巴勒斯坦人，在突发事件中的经历。专业解读巴以冲突过程。</a></p>
+                                        </li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+
+                        <div class="innerbut">
+                            <a href="//www.17k.com/list/3611736.html" target="_blank" class="ts">在线阅读</a>
+                            <a href="javascript:k.book(3611736).mark();">收藏本书</a>
+                        </div>
+                    </div><div style="display:none;" id="mydiv18">
+                        <div class="inner">
+                            <dl>
+                                <dt><a href="//www.17k.com/book/3597068.html" target="_blank"><img src="http://cdn.static.17k.com/book/189x272/68/70/3597068.jpg-189x272?v=0"></a></dt>
+                                <dd>
+                                    <ul>
+                                        <li><strong><a target="_blank" href="//www.17k.com/book/3597068.html">破碎的方块2：NB世界</a></strong></li>
+                                        <li class="zz">
+                                            作者：<a href="//user.17k.com/see/www/103484633.html" target="_blank">卡缪吴</a>
+                                        </li>
+                                        <li class="bq10">
+                                            标签：
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=战争" target="_blank" title="战争">战争&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=犯罪" target="_blank" title="犯罪">犯罪&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=科幻" target="_blank" title="科幻">科幻&gt;</a>
+                                            
+                                        </li>
+                                        <li>
+                                            <p>简介：<a href="//www.17k.com/list/3597068.html" target="_blank">事先提醒：重要人物中有一人是杀人犯，最后会受到惩罚，在前期剧情中和其他的人物没什么区别。
+在一个星球上，有一个国家叫A国，这里有两个高度自治的地区，分别是N区和B区，N区一直想要独立出A国，他们的地方官府在一次商议后决定通过武力清除该地区的中央官府驻军(人民军)，战争就这样开始了。</a></p>
+                                        </li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+
+                        <div class="innerbut">
+                            <a href="//www.17k.com/list/3597068.html" target="_blank" class="ts">在线阅读</a>
+                            <a href="javascript:k.book(3597068).mark();">收藏本书</a>
+                        </div>
+                    </div><div style="display:none;" id="mydiv19">
+                        <div class="inner">
+                            <dl>
+                                <dt><a href="//www.17k.com/book/3609270.html" target="_blank"><img src="http://cdn.static.17k.com/book/189x272/70/92/3609270.jpg-189x272?v=0"></a></dt>
+                                <dd>
+                                    <ul>
+                                        <li><strong><a target="_blank" href="//www.17k.com/book/3609270.html">星辰契约：幻境之旅</a></strong></li>
+                                        <li class="zz">
+                                            作者：<a href="//user.17k.com/see/www/103849324.html" target="_blank">龙吟写手</a>
+                                        </li>
+                                        <li class="bq10">
+                                            标签：
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=星辰契约" target="_blank" title="星辰契约">星辰契约&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=玄幻奇幻" target="_blank" title="玄幻奇幻">玄幻奇幻&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=古老力量" target="_blank" title="古老力量">古老力量&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=神秘力量" target="_blank" title="神秘力量">神秘力量&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=冒险与探索" target="_blank" title="冒险与探索">冒险与探索&gt;</a>
+                                            
+                                        </li>
+                                        <li>
+                                            <p>简介：<a href="//www.17k.com/list/3609270.html" target="_blank">在名为“幻境”的星球上，年轻的林逸和拥有感知星辰力量的苏晴雪是一对青梅竹马。他们生活在宁静的星辉村，但心中都怀揣着探索未知世界的梦想。一天，老村长告诉两人，一场大变即将来临，而他们可能是这场变局的关键。为了寻找答案，林逸和苏晴雪踏上了前往龙息山脉的旅程。途中，他们经历了迷雾森林的考验，遭遇了各种奇异生物的攻击，但凭借着勇气和智慧一一克服困难。最终，他们在龙息山脉发现了一个秘密地点，那里隐藏着关于星辰契约的重要线索。</a></p>
+                                        </li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+
+                        <div class="innerbut">
+                            <a href="//www.17k.com/list/3609270.html" target="_blank" class="ts">在线阅读</a>
+                            <a href="javascript:k.book(3609270).mark();">收藏本书</a>
+                        </div>
+                    </div><div style="display:none;" id="mydiv20">
+                        <div class="inner">
+                            <dl>
+                                <dt><a href="//www.17k.com/book/3598373.html" target="_blank"><img src="http://cdn.static.17k.com/book/189x272/73/83/3598373.jpg-189x272?v=1721106378000"></a></dt>
+                                <dd>
+                                    <ul>
+                                        <li><strong><a target="_blank" href="//www.17k.com/book/3598373.html">文科生无用？我修武道你们慌什么</a></strong></li>
+                                        <li class="zz">
+                                            作者：<a href="//user.17k.com/see/www/27046929.html" target="_blank">夏山河</a>
+                                        </li>
+                                        <li class="bq10">
+                                            标签：
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=高武" target="_blank" title="高武">高武&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=重生" target="_blank" title="重生">重生&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=校园" target="_blank" title="校园">校园&gt;</a>
+                                            
+                                        </li>
+                                        <li>
+                                            <p>简介：<a href="//www.17k.com/list/3598373.html" target="_blank">【都市高武+重生+无系统+爽文】
+文科第一没用？
+那我也可以武道弑神。
+苏陌重生了，前世，他文科第一，却受尽厌弃，所有的人都觉得文科生无用。
+这一世，苏陌开始修炼武道，他们却急了。
+说好的孱弱书生呢？
+
+</a></p>
+                                        </li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+
+                        <div class="innerbut">
+                            <a href="//www.17k.com/list/3598373.html" target="_blank" class="ts">在线阅读</a>
+                            <a href="javascript:k.book(3598373).mark();">收藏本书</a>
+                        </div>
+                    </div><div style="display:none;" id="mydiv21">
+                        <div class="inner">
+                            <dl>
+                                <dt><a href="//www.17k.com/book/3593120.html" target="_blank"><img src="http://cdn.static.17k.com/book/189x272/20/31/3593120.jpg-189x272?v=1715990929000"></a></dt>
+                                <dd>
+                                    <ul>
+                                        <li><strong><a target="_blank" href="//www.17k.com/book/3593120.html">天龙八部之魔冢</a></strong></li>
+                                        <li class="zz">
+                                            作者：<a href="//user.17k.com/see/www/86492666.html" target="_blank">淡漠D石头</a>
+                                        </li>
+                                        <li class="bq10">
+                                            标签：
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=天龙八部" target="_blank" title="天龙八部">天龙八部&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=仙侠" target="_blank" title="仙侠">仙侠&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=玄幻" target="_blank" title="玄幻">玄幻&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=东方玄幻" target="_blank" title="东方玄幻">东方玄幻&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=高武世界" target="_blank" title="高武世界">高武世界&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=诸天万界" target="_blank" title="诸天万界">诸天万界&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=重生" target="_blank" title="重生">重生&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=无敌" target="_blank" title="无敌">无敌&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=刀道剑道" target="_blank" title="刀道剑道">刀道剑道&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=男人同主" target="_blank" title="男人同主">男人同主&gt;</a>
+                                            
+                                        </li>
+                                        <li>
+                                            <p>简介：<a href="//www.17k.com/list/3593120.html" target="_blank">沈家村的后面却有一块一禁地，只知道那叫‘魔冢’，古老、神秘、诡异。
+魔冢里面有几千个坟墓，自古以来就一直都在那里。
+没有人知道，魔冢什么时候就有的；
+没有人知道，那几千个坟墓什么时候来的；
+更加没有人知道，那里而埋葬的又都是谁！
+这一天，一个小孩子却冲了进来，从此，天下的命运开始改变……
+佛经中的天龙八部，略称为八部众，是指天神、龙、蛇等护持佛法的八种守护神。《法华经》记载︰“天众、龙众、夜叉、乾闼婆、阿修罗、迦楼罗、紧那罗、摩侯罗伽为天龙八部。”</a></p>
+                                        </li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+
+                        <div class="innerbut">
+                            <a href="//www.17k.com/list/3593120.html" target="_blank" class="ts">在线阅读</a>
+                            <a href="javascript:k.book(3593120).mark();">收藏本书</a>
+                        </div>
+                    </div><div style="display:none;" id="mydiv22">
+                        <div class="inner">
+                            <dl>
+                                <dt><a href="//www.17k.com/book/3609282.html" target="_blank"><img src="http://cdn.static.17k.com/book/189x272/82/92/3609282.jpg-189x272?v=1731049041000"></a></dt>
+                                <dd>
+                                    <ul>
+                                        <li><strong><a target="_blank" href="//www.17k.com/book/3609282.html">重生后我为无上至尊</a></strong></li>
+                                        <li class="zz">
+                                            作者：<a href="//user.17k.com/see/www/73964967.html" target="_blank">我念随心</a>
+                                        </li>
+                                        <li class="bq10">
+                                            标签：
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=都市" target="_blank" title="都市">都市&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=爽文" target="_blank" title="爽文">爽文&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=单女主" target="_blank" title="单女主">单女主&gt;</a>
+                                            
+                                        </li>
+                                        <li>
+                                            <p>简介：<a href="//www.17k.com/list/3609282.html" target="_blank">田铭被相恋多年的女友分手之后，心情郁闷的在河边吹风时遇到一个老乞丐。
+请老乞丐喝酒后，给了田铭一次重新选择人生的机会。
+第二天一觉醒来，田铭被系统重塑人生轨迹，成为了一个超级富二代。
+至此之后，原本那个不得志的田铭消失了。
+只剩下了一个潇洒自在，享受纸醉金迷奢侈生活的超级富二代。
+只是当有一天田铭突然发现，所有的一切都不过是一场阴谋，从他出生的时候阴谋就已经开始了。
+所谓的老乞丐不过是开启他体内封印的另外一个人格的钥匙罢了。
+那充满危险未知的试炼之地域外战场。
+那充斥着神秘、诡异的实验室到底在研究什么？
+田铭的第二人格是天生存在的，还是被人创造出来的？
+被第二人格为主导的田铭，还是原本的田铭吗？
+
+</a></p>
+                                        </li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+
+                        <div class="innerbut">
+                            <a href="//www.17k.com/list/3609282.html" target="_blank" class="ts">在线阅读</a>
+                            <a href="javascript:k.book(3609282).mark();">收藏本书</a>
+                        </div>
+                    </div><div style="display:none;" id="mydiv23">
+                        <div class="inner">
+                            <dl>
+                                <dt><a href="//www.17k.com/book/3610510.html" target="_blank"><img src="http://cdn.static.17k.com/book/189x272/10/05/3610510.jpg-189x272?v=1731650417000"></a></dt>
+                                <dd>
+                                    <ul>
+                                        <li><strong><a target="_blank" href="//www.17k.com/book/3610510.html">以守护为誓</a></strong></li>
+                                        <li class="zz">
+                                            作者：<a href="//user.17k.com/see/www/103868507.html" target="_blank">五福星</a>
+                                        </li>
+                                        <li class="bq10">
+                                            标签：
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=商业" target="_blank" title="商业">商业&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=守护者" target="_blank" title="守护者">守护者&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=二次元" target="_blank" title="二次元">二次元&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=英雄迟暮" target="_blank" title="英雄迟暮">英雄迟暮&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=现代家庭" target="_blank" title="现代家庭">现代家庭&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=金手指" target="_blank" title="金手指">金手指&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=反差萌" target="_blank" title="反差萌">反差萌&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=女总裁" target="_blank" title="女总裁">女总裁&gt;</a>
+                                            
+                                        </li>
+                                        <li>
+                                            <p>简介：<a href="//www.17k.com/list/3610510.html" target="_blank">       他是一个守护者，身处现代都市之中。
+       她，人前古板的女总裁，背后却是二次元萌妹。
+       他曾经英雄无敌，现在却已迟暮。
+       他选择默默守护着她，看着她在职场雷厉风行，又目睹她私下可爱的二次元模样。
+       他的守护无声无息，如同岁月里的涓涓细流。
+       他们的故事，就在这个现代家庭的时空背景下，充满了未知与温情地开始了。
+       </a></p>
+                                        </li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+
+                        <div class="innerbut">
+                            <a href="//www.17k.com/list/3610510.html" target="_blank" class="ts">在线阅读</a>
+                            <a href="javascript:k.book(3610510).mark();">收藏本书</a>
+                        </div>
+                    </div><div style="display:none;" id="mydiv24">
+                        <div class="inner">
+                            <dl>
+                                <dt><a href="//www.17k.com/book/3609994.html" target="_blank"><img src="http://cdn.static.17k.com/book/189x272/94/99/3609994.jpg-189x272?v=0"></a></dt>
+                                <dd>
+                                    <ul>
+                                        <li><strong><a target="_blank" href="//www.17k.com/book/3609994.html">申城恋曲2005</a></strong></li>
+                                        <li class="zz">
+                                            作者：<a href="//user.17k.com/see/www/103859863.html" target="_blank">宁晋一夏</a>
+                                        </li>
+                                        <li class="bq10">
+                                            标签：
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=言情" target="_blank" title="言情">言情&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=都市" target="_blank" title="都市">都市&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=怀旧" target="_blank" title="怀旧">怀旧&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=回忆" target="_blank" title="回忆">回忆&gt;</a>
+                                            
+                                        </li>
+                                        <li>
+                                            <p>简介：<a href="//www.17k.com/list/3609994.html" target="_blank">这部小说描写了一对恋人在上海2005-2008三年间感情、事业、成长经历，2024年，再回首，往日时光甜蜜而苦涩。</a></p>
+                                        </li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+
+                        <div class="innerbut">
+                            <a href="//www.17k.com/list/3609994.html" target="_blank" class="ts">在线阅读</a>
+                            <a href="javascript:k.book(3609994).mark();">收藏本书</a>
+                        </div>
+                    </div><div style="display:none;" id="mydiv25">
+                        <div class="inner">
+                            <dl>
+                                <dt><a href="//www.17k.com/book/3610897.html" target="_blank"><img src="http://cdn.static.17k.com/book/189x272/97/08/3610897.jpg-189x272?v=0"></a></dt>
+                                <dd>
+                                    <ul>
+                                        <li><strong><a target="_blank" href="//www.17k.com/book/3610897.html">剑问谪心</a></strong></li>
+                                        <li class="zz">
+                                            作者：<a href="//user.17k.com/see/www/79683993.html" target="_blank">天策飞将</a>
+                                        </li>
+                                        <li class="bq10">
+                                            标签：
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=仙侠修真" target="_blank" title="仙侠修真">仙侠修真&gt;</a>
+                                            
+                                        </li>
+                                        <li>
+                                            <p>简介：<a href="//www.17k.com/list/3610897.html" target="_blank">江湖百炼，方寸谪心，
+　　那年初春清逸洒脱，
+　　携剑太白入此江湖，任其波云诡谲，我自云淡风轻。
+　　三千客醉，光寒九州，
+　　那年深秋缘起缘灭，
+　　携她之手归宿成双，天下风云迭起，我自心如磐石。
+　　李老头曾言江湖简单，得意时仗剑，失意时饮酒，最难之事便是酒与剑同时在手，他这辈子没能做到的事，便只好托付与他。
+　　于闹市处沽糙酒，
+　　于山野间寻心安，
+　　一念风云变幻，
+　　一曲尘缘缭乱，
+　　我以掌中三尺剑，再请谪仙入世间！</a></p>
+                                        </li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+
+                        <div class="innerbut">
+                            <a href="//www.17k.com/list/3610897.html" target="_blank" class="ts">在线阅读</a>
+                            <a href="javascript:k.book(3610897).mark();">收藏本书</a>
+                        </div>
+                    </div><div style="display:none;" id="mydiv26">
+                        <div class="inner">
+                            <dl>
+                                <dt><a href="//www.17k.com/book/2764808.html" target="_blank"><img src="http://cdn.static.17k.com/book/189x272/08/48/2764808.jpg-189x272?v=1705127226000"></a></dt>
+                                <dd>
+                                    <ul>
+                                        <li><strong><a target="_blank" href="//www.17k.com/book/2764808.html">米瑞斯之诺亚光辉</a></strong></li>
+                                        <li class="zz">
+                                            作者：<a href="//user.17k.com/see/www/59242996.html" target="_blank">最初之峰</a>
+                                        </li>
+                                        <li class="bq10">
+                                            标签：
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=米瑞斯" target="_blank" title="米瑞斯">米瑞斯&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=所谓宿命" target="_blank" title="所谓宿命">所谓宿命&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=命中注定" target="_blank" title="命中注定">命中注定&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=穿越异界" target="_blank" title="穿越异界">穿越异界&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=诺亚神兽" target="_blank" title="诺亚神兽">诺亚神兽&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=继承系列" target="_blank" title="继承系列">继承系列&gt;</a>
+                                            
+                                        </li>
+                                        <li>
+                                            <p>简介：<a href="//www.17k.com/list/2764808.html" target="_blank">命定之缘，命中注定，光芒可遇不可求；
+神坛逆袭，神圣使命，神坛现赫赫之光；
+光辉再现，光芒相遇，召唤诺亚现光辉；
+米咔圣记，米魔传奇，火凤光谷迎战火。</a></p>
+                                        </li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+
+                        <div class="innerbut">
+                            <a href="//www.17k.com/list/2764808.html" target="_blank" class="ts">在线阅读</a>
+                            <a href="javascript:k.book(2764808).mark();">收藏本书</a>
+                        </div>
+                    </div><div style="display:none;" id="mydiv27">
+                        <div class="inner">
+                            <dl>
+                                <dt><a href="//www.17k.com/book/3608174.html" target="_blank"><img src="http://cdn.static.17k.com/book/189x272/74/81/3608174.jpg-189x272?v=1729479167000"></a></dt>
+                                <dd>
+                                    <ul>
+                                        <li><strong><a target="_blank" href="//www.17k.com/book/3608174.html">我，护道人，偷摘女儿道果！</a></strong></li>
+                                        <li class="zz">
+                                            作者：<a href="//user.17k.com/see/www/54805747.html" target="_blank">王六郎</a>
+                                        </li>
+                                        <li class="bq10">
+                                            标签：
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=脑洞文" target="_blank" title="脑洞文">脑洞文&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=邪祟" target="_blank" title="邪祟">邪祟&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=妖魔" target="_blank" title="妖魔">妖魔&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=爽文" target="_blank" title="爽文">爽文&gt;</a>
+                                            
+                                        </li>
+                                        <li>
+                                            <p>简介：<a href="//www.17k.com/list/3608174.html" target="_blank">离谱！穿越二十年碌碌无为。
+接受现实的秦逸，只能选择任命，踏实下心来，经营祖业，娶妻生子。
+可是，就在他女儿降生的那一刻，他的外挂，突然有了反应。
+女儿平安出生，你摘取女儿道果【九阴】，女儿获得反哺【剑胎】！
+女儿一岁，平平安安，你摘取女儿道果【死灵】，女儿获得反哺【神纹】！
+女儿二岁，无病无灾，你摘取女儿道果【血魔】，女儿获得反哺【九天玄女诀】！
+女儿三岁，平安喜乐，你摘取女儿道果【冥瞳】，女儿获得反哺【圣辉】!
+……</a></p>
+                                        </li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+
+                        <div class="innerbut">
+                            <a href="//www.17k.com/list/3608174.html" target="_blank" class="ts">在线阅读</a>
+                            <a href="javascript:k.book(3608174).mark();">收藏本书</a>
+                        </div>
+                    </div><div style="display:none;" id="mydiv28">
+                        <div class="inner">
+                            <dl>
+                                <dt><a href="//www.17k.com/book/3607373.html" target="_blank"><img src="http://cdn.static.17k.com/book/189x272/73/73/3607373.jpg-189x272?v=1728442379000"></a></dt>
+                                <dd>
+                                    <ul>
+                                        <li><strong><a target="_blank" href="//www.17k.com/book/3607373.html">对话80年代，囤货娇养村花</a></strong></li>
+                                        <li class="zz">
+                                            作者：<a href="//user.17k.com/see/www/32398668.html" target="_blank">撒豆成乒乓</a>
+                                        </li>
+                                        <li class="bq10">
+                                            标签：
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=叶欢" target="_blank" title="叶欢">叶欢&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=柳明月" target="_blank" title="柳明月">柳明月&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=八十年代" target="_blank" title="八十年代">八十年代&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=年代" target="_blank" title="年代">年代&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=通古今" target="_blank" title="通古今">通古今&gt;</a>
+                                            
+                                        </li>
+                                        <li>
+                                            <p>简介：<a href="//www.17k.com/list/3607373.html" target="_blank">叶欢无意中得到一个可以连通上世纪八十年代的木箱。
+一边是信息爆炸、医疗强大、教育发达、科技领先但却人情冷漠的现代。
+一边是物资匮乏，全国人民高举镰刀与锤子，高呼劳动光荣的1980年。
+叶欢没有什么雄心壮志，只想赚钱养家……养那个尚在八十年代摸爬滚打的纯真小村花。</a></p>
+                                        </li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+
+                        <div class="innerbut">
+                            <a href="//www.17k.com/list/3607373.html" target="_blank" class="ts">在线阅读</a>
+                            <a href="javascript:k.book(3607373).mark();">收藏本书</a>
+                        </div>
+                    </div><div style="display:none;" id="mydiv29">
+                        <div class="inner">
+                            <dl>
+                                <dt><a href="//www.17k.com/book/3607706.html" target="_blank"><img src="http://cdn.static.17k.com/book/189x272/06/77/3607706.jpg-189x272?v=1729307666000"></a></dt>
+                                <dd>
+                                    <ul>
+                                        <li><strong><a target="_blank" href="//www.17k.com/book/3607706.html">落云传奇</a></strong></li>
+                                        <li class="zz">
+                                            作者：<a href="//user.17k.com/see/www/103817697.html" target="_blank">信书闲书说东西</a>
+                                        </li>
+                                        <li class="bq10">
+                                            标签：
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=落云城" target="_blank" title="落云城">落云城&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=相思扣" target="_blank" title="相思扣">相思扣&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=林墨" target="_blank" title="林墨">林墨&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=苏瑶" target="_blank" title="苏瑶">苏瑶&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=夜影" target="_blank" title="夜影">夜影&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=云阳谷" target="_blank" title="云阳谷">云阳谷&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=剑谱" target="_blank" title="剑谱">剑谱&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=报恩" target="_blank" title="报恩">报恩&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=复仇" target="_blank" title="复仇">复仇&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=坚贞爱情" target="_blank" title="坚贞爱情">坚贞爱情&gt;</a>
+                                            
+                                        </li>
+                                        <li>
+                                            <p>简介：<a href="//www.17k.com/list/3607706.html" target="_blank">大楚王朝落云城，富商之女苏瑶才貌双全。一日，瑶入寺祈福遇林墨，二人一见钟情，数度相遇后情愫渐生，以相思扣定情。
+
+然而，瑶父欲为女择门当户对夫婿，反对她与林墨在一起，并将瑶许配给富家公子吴亮。瑶与林墨反抗无果，林墨奋发图强考取功名。高中榜眼后，他向瑶父求亲，瑶父因林墨功成名就欲与吴家退婚，吴家不允闹至官府。最终，官府判决苏家退婚并赔偿吴家，林墨与苏瑶筹备婚礼。
+
+吴亮因嫉妒雇杀手破坏婚礼，关键时刻夜影现身相助。原来林墨祖乃前朝世袭之臣，夜影受其祖恩，一直暗中保护林墨。瑶知林墨身份震惊，林墨表示愿与瑶携手。吴亮告密，林墨被通缉，与瑶踏上逃亡之路。
+
+夜影返回落云城找吴亮报仇，先后目睹白子轩欲杀吴亮失败及与白子轩合作成功复仇。夜影追赶林墨与瑶，在山谷中与杀手激战，最终为保护他们同归于尽。林墨与瑶历经艰险找到云阳谷，隐姓埋名，放弃复仇，愿岁月静好，与君共白首，相思扣见证他们的爱情。</a></p>
+                                        </li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+
+                        <div class="innerbut">
+                            <a href="//www.17k.com/list/3607706.html" target="_blank" class="ts">在线阅读</a>
+                            <a href="javascript:k.book(3607706).mark();">收藏本书</a>
+                        </div>
+                    </div><div style="display:none;" id="mydiv30">
+                        <div class="inner">
+                            <dl>
+                                <dt><a href="//www.17k.com/book/3528566.html" target="_blank"><img src="http://cdn.static.17k.com/book/189x272/66/85/3528566.jpg-189x272?v=0"></a></dt>
+                                <dd>
+                                    <ul>
+                                        <li><strong><a target="_blank" href="//www.17k.com/book/3528566.html">索菲亚大教堂</a></strong></li>
+                                        <li class="zz">
+                                            作者：<a href="//user.17k.com/see/www/42403029.html" target="_blank">吴禹杭</a>
+                                        </li>
+                                        <li class="bq10">
+                                            标签：
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=战争" target="_blank" title="战争">战争&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=爱情" target="_blank" title="爱情">爱情&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=友情" target="_blank" title="友情">友情&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=亲情" target="_blank" title="亲情">亲情&gt;</a>
+                                                                                        <a href="//search.17k.com/search.xhtml?c.st=0&amp;c.q=荣誉" target="_blank" title="荣誉">荣誉&gt;</a>
+                                            
+                                        </li>
+                                        <li>
+                                            <p>简介：<a href="//www.17k.com/list/3528566.html" target="_blank">简介：战争与和平，亲情与爱情，友情与忠诚，在这个混乱的年代里，人们的命运该将何去何从。</a></p>
+                                        </li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+
+                        <div class="innerbut">
+                            <a href="//www.17k.com/list/3528566.html" target="_blank" class="ts">在线阅读</a>
+                            <a href="javascript:k.book(3528566).mark();">收藏本书</a>
+                        </div>
+                    </div><table>
+                <thead>
+                <tr>
+                    <td class="td1">序号</td><td class="td2">类别</td><td class="td3">书名</td>
+                    <td class="td4">最新章节</td><td class="td5">字数</td><td class="td6">作者</td>
+                    <td class="td7">更新时间</td><td class="td8">状态</td>
+                </tr>
+                </thead>
+                <tbody>
+                <!-- TODO 这个作用未知 -->
+                <tr style="display: none;">
+                    <td class="td1"></td>
+                    <td class="td2"></td>
+                    <td class="td3">
+                        <!-- 有这个才能显示正常！！！ -->
+                        <a class="jt" rel="#" href="#" title="xxxx">xxxx</a>
+                    </td>
+                    <td class="td4"></td>
+                    <td class="td5"></td>
+                    <td class="td6"></td>
+                    <td class="td7"></td>
+                    <td class="td8"></td>
+                </tr>
+                                <tr class="bg0">
+                    <td class="td1">1</td>
+                    <td class="td2">[<a href="/all/book/2_21_8_0_3_0_1_0_1.html" target="_blank">东方玄幻</a>]</td>
+                    <td class="td3">
+		                <span>
+		                    <a class="jt" rel="#mydiv1" href="//www.17k.com/book/3575237.html" target="_blank" title="">我的修仙自带滤镜</a>						</span>
+                    </td>
+                    
+                    <td class="td4">
+                        <a href="//www.17k.com/chapter/3575237/49068106.html" target="_blank">第三十三章 断金破铁 悍勇无双</a></td>
+                    <td class="td5">72317</td>
+                    <td class="td6"><a href="//user.17k.com/see/www/74591571.html" target="_blank" title="闪电猫">闪电猫</a></td>
+                    <td class="td7">2024-12-26 09:00</td>
+                    <td class="td8"><em class="fc2">
+                                                        完本
+                                            </em></td>
+                </tr>
+                                <tr class="bg1">
+                    <td class="td1">2</td>
+                    <td class="td2">[<a href="/all/book/2_21_122_0_3_0_1_0_1.html" target="_blank">魔法校园</a>]</td>
+                    <td class="td3">
+		                <span>
+		                    <a class="jt" rel="#mydiv2" href="//www.17k.com/book/3613484.html" target="_blank" title="">无尽之月</a>						</span>
+                    </td>
+                    
+                    <td class="td4">
+                        <a href="//www.17k.com/chapter/3613484/49080617.html" target="_blank">最终章</a></td>
+                    <td class="td5">43930</td>
+                    <td class="td6"><a href="//user.17k.com/see/www/103920628.html" target="_blank" title="雪辰SR">雪辰SR</a></td>
+                    <td class="td7">2024-12-25 17:18</td>
+                    <td class="td8"><em class="fc2">
+                                                        完本
+                                            </em></td>
+                </tr>
+                                <tr class="bg0">
+                    <td class="td1">3</td>
+                    <td class="td2">[<a href="/all/book/2_21_8_0_3_0_1_0_1.html" target="_blank">东方玄幻</a>]</td>
+                    <td class="td3">
+		                <span>
+		                    <a class="jt" rel="#mydiv3" href="//www.17k.com/book/3602956.html" target="_blank" title="">无敌：从病公子横推成圣</a><b class="qy" title="签约"></b>						</span>
+                    </td>
+                    
+                    <td class="td4">
+                        <a href="//www.17k.com/chapter/3602956/49080117.html" target="_blank">第217章 无题</a></td>
+                    <td class="td5">538496</td>
+                    <td class="td6"><a href="//user.17k.com/see/www/101481558.html" target="_blank" title="陆游器">陆游器</a></td>
+                    <td class="td7">2024-12-25 11:32</td>
+                    <td class="td8"><em class="fc2">
+                                                        完本
+                                            </em></td>
+                </tr>
+                                <tr class="bg1">
+                    <td class="td1">4</td>
+                    <td class="td2">[<a href="/all/book/2_3_87_0_3_0_1_0_1.html" target="_blank">都市异能</a>]</td>
+                    <td class="td3">
+		                <span>
+		                    <a class="jt" rel="#mydiv4" href="//www.17k.com/book/3595829.html" target="_blank" title="">手刃刀芒</a>						</span>
+                    </td>
+                    
+                    <td class="td4">
+                        <a href="//www.17k.com/chapter/3595829/49079760.html" target="_blank">第257章 其实真皇帝已经死了（JFY）</a></td>
+                    <td class="td5">573136</td>
+                    <td class="td6"><a href="//user.17k.com/see/www/74979032.html" target="_blank" title="A4纸条">A4纸条</a></td>
+                    <td class="td7">2024-12-24 23:33</td>
+                    <td class="td8"><em class="fc2">
+                                                        完本
+                                            </em></td>
+                </tr>
+                                <tr class="bg0">
+                    <td class="td1">5</td>
+                    <td class="td2">[<a href="/all/book/2_29_181_0_3_0_1_0_1.html" target="_blank">侦探推理</a>]</td>
+                    <td class="td3">
+		                <span>
+		                    <a class="jt" rel="#mydiv5" href="//www.17k.com/book/3613409.html" target="_blank" title="">妻子的疑心</a>						</span>
+                    </td>
+                    
+                    <td class="td4">
+                        <a href="//www.17k.com/chapter/3613409/49073711.html" target="_blank">03 本来不想让她知道的</a></td>
+                    <td class="td5">4067</td>
+                    <td class="td6"><a href="//user.17k.com/see/www/35041850.html" target="_blank" title="幼鲸">幼鲸</a></td>
+                    <td class="td7">2024-12-21 23:32</td>
+                    <td class="td8"><em class="fc2">
+                                                        完本
+                                            </em></td>
+                </tr>
+                                <tr class="bg1">
+                    <td class="td1">6</td>
+                    <td class="td2">[<a href="/all/book/2_3_91_0_3_0_1_0_1.html" target="_blank">现实题材</a>]</td>
+                    <td class="td3">
+		                <span>
+		                    <a class="jt" rel="#mydiv6" href="//www.17k.com/book/3612189.html" target="_blank" title="">炒股日记</a>						</span>
+                    </td>
+                    
+                    <td class="td4">
+                        <a href="//www.17k.com/chapter/3612189/49070742.html" target="_blank">完结了</a></td>
+                    <td class="td5">77128</td>
+                    <td class="td6"><a href="//user.17k.com/see/www/72150690.html" target="_blank" title="红楼少爷">红楼少爷</a></td>
+                    <td class="td7">2024-12-20 14:32</td>
+                    <td class="td8"><em class="fc2">
+                                                        完本
+                                            </em></td>
+                </tr>
+                                <tr class="bg0">
+                    <td class="td1">7</td>
+                    <td class="td2">[<a href="/all/book/2_30_185_0_3_0_1_0_1.html" target="_blank">宅系小说</a>]</td>
+                    <td class="td3">
+		                <span>
+		                    <a class="jt" rel="#mydiv7" href="//www.17k.com/book/3612814.html" target="_blank" title="">诸天:龙起深渊</a>						</span>
+                    </td>
+                    
+                    <td class="td4">
+                        <a href="//www.17k.com/chapter/3612814/49068650.html" target="_blank">16、魔控人间 魔焰人间道</a></td>
+                    <td class="td5">100238</td>
+                    <td class="td6"><a href="//user.17k.com/see/www/63878582.html" target="_blank" title="来不及第一">来不及第一</a></td>
+                    <td class="td7">2024-12-19 13:54</td>
+                    <td class="td8"><em class="fc2">
+                                                        完本
+                                            </em></td>
+                </tr>
+                                <tr class="bg1">
+                    <td class="td1">8</td>
+                    <td class="td2">[<a href="/all/book/2_22_93_0_3_0_1_0_1.html" target="_blank">架空历史</a>]</td>
+                    <td class="td3">
+		                <span>
+		                    <a class="jt" rel="#mydiv8" href="//www.17k.com/book/3607767.html" target="_blank" title="">皇子陷害？我教公主日月当空曌</a><b class="qy" title="签约"></b>						</span>
+                    </td>
+                    
+                    <td class="td4">
+                        <a href="//www.17k.com/chapter/3607767/49056909.html" target="_blank">第133章：设想落空了</a></td>
+                    <td class="td5">273226</td>
+                    <td class="td6"><a href="//user.17k.com/see/www/93212098.html" target="_blank" title="登临九霄">登临九霄</a></td>
+                    <td class="td7">2024-12-19 13:13</td>
+                    <td class="td8"><em class="fc2">
+                                                        完本
+                                            </em></td>
+                </tr>
+                                <tr class="bg0">
+                    <td class="td1">9</td>
+                    <td class="td2">[<a href="/all/book/2_21_115_0_3_0_1_0_1.html" target="_blank">异世争霸</a>]</td>
+                    <td class="td3">
+		                <span>
+		                    <a class="jt" rel="#mydiv9" href="//www.17k.com/book/3513863.html" target="_blank" title="">神落天行</a>						</span>
+                    </td>
+                    
+                    <td class="td4">
+                        <a href="//www.17k.com/chapter/3513863/49067607.html" target="_blank">引子－希望</a></td>
+                    <td class="td5">21740</td>
+                    <td class="td6"><a href="//user.17k.com/see/www/99826924.html" target="_blank" title="君不在年少">君不在年少</a></td>
+                    <td class="td7">2024-12-18 23:24</td>
+                    <td class="td8"><em class="fc2">
+                                                        完本
+                                            </em></td>
+                </tr>
+                                <tr class="bg1">
+                    <td class="td1">10</td>
+                    <td class="td2">[<a href="/all/book/2_24_82_0_3_0_1_0_1.html" target="_blank">奇幻修真</a>]</td>
+                    <td class="td3">
+		                <span>
+		                    <a class="jt" rel="#mydiv10" href="//www.17k.com/book/3611226.html" target="_blank" title="">签到修仙却愈发变成邪道</a>						</span>
+                    </td>
+                    
+                    <td class="td4">
+                        <a href="//www.17k.com/chapter/3611226/49032444.html" target="_blank">第三十六章 第六式</a></td>
+                    <td class="td5">8064</td>
+                    <td class="td6"><a href="//user.17k.com/see/www/74229901.html" target="_blank" title="寻剑三将军">寻剑三将军</a></td>
+                    <td class="td7">2024-12-15 08:37</td>
+                    <td class="td8"><em class="fc2">
+                                                        完本
+                                            </em></td>
+                </tr>
+                                <tr class="bg0">
+                    <td class="td1">11</td>
+                    <td class="td2">[<a href="/all/book/2_30_183_0_3_0_1_0_1.html" target="_blank">爆笑幽默</a>]</td>
+                    <td class="td3">
+		                <span>
+		                    <a class="jt" rel="#mydiv11" href="//www.17k.com/book/3612607.html" target="_blank" title="">穿越之我有超级外挂</a>						</span>
+                    </td>
+                    
+                    <td class="td4">
+                        <a href="//www.17k.com/chapter/3612607/49052567.html" target="_blank">第五章：天下无敌</a></td>
+                    <td class="td5">2234</td>
+                    <td class="td6"><a href="//user.17k.com/see/www/103903219.html" target="_blank" title="安静的风">安静的风</a></td>
+                    <td class="td7">2024-12-10 23:40</td>
+                    <td class="td8"><em class="fc2">
+                                                        完本
+                                            </em></td>
+                </tr>
+                                <tr class="bg1">
+                    <td class="td1">12</td>
+                    <td class="td2">[<a href="/all/book/2_21_8_0_3_0_1_0_1.html" target="_blank">东方玄幻</a>]</td>
+                    <td class="td3">
+		                <span>
+		                    <a class="jt" rel="#mydiv12" href="//www.17k.com/book/3612584.html" target="_blank" title="">神荒战尊</a>						</span>
+                    </td>
+                    
+                    <td class="td4">
+                        <a href="//www.17k.com/chapter/3612584/49052327.html" target="_blank">第十一章：传奇之路</a></td>
+                    <td class="td5">3480</td>
+                    <td class="td6"><a href="//user.17k.com/see/www/103903010.html" target="_blank" title="橙皮C">橙皮C</a></td>
+                    <td class="td7">2024-12-10 14:57</td>
+                    <td class="td8"><em class="fc2">
+                                                        完本
+                                            </em></td>
+                </tr>
+                                <tr class="bg0">
+                    <td class="td1">13</td>
+                    <td class="td2">[<a href="/all/book/2_3_87_0_3_0_1_0_1.html" target="_blank">都市异能</a>]</td>
+                    <td class="td3">
+		                <span>
+		                    <a class="jt" rel="#mydiv13" href="//www.17k.com/book/3608255.html" target="_blank" title="">无人的深空</a>						</span>
+                    </td>
+                    
+                    <td class="td4">
+                        <a href="//www.17k.com/chapter/3608255/49047667.html" target="_blank">第26章 领取小玩具</a></td>
+                    <td class="td5">35165</td>
+                    <td class="td6"><a href="//user.17k.com/see/www/67736365.html" target="_blank" title="黄榕海">黄榕海</a></td>
+                    <td class="td7">2024-12-07 19:43</td>
+                    <td class="td8"><em class="fc2">
+                                                        完本
+                                            </em></td>
+                </tr>
+                                <tr class="bg1">
+                    <td class="td1">14</td>
+                    <td class="td2">[<a href="/all/book/2_3_118_0_3_0_1_0_1.html" target="_blank">校园风云</a>]</td>
+                    <td class="td3">
+		                <span>
+		                    <a class="jt" rel="#mydiv14" href="//www.17k.com/book/3360278.html" target="_blank" title="">命运之神和他的命运之书</a>						</span>
+                    </td>
+                    
+                    <td class="td4">
+                        <a href="//www.17k.com/chapter/3360278/49044971.html" target="_blank">第五十五章 狐火盛会</a></td>
+                    <td class="td5">102023</td>
+                    <td class="td6"><a href="//user.17k.com/see/www/80340905.html" target="_blank" title="风清有云">风清有云</a></td>
+                    <td class="td7">2024-12-06 00:57</td>
+                    <td class="td8"><em class="fc2">
+                                                        完本
+                                            </em></td>
+                </tr>
+                                <tr class="bg0">
+                    <td class="td1">15</td>
+                    <td class="td2">[<a href="/all/book/2_22_126_0_3_0_1_0_1.html" target="_blank">战史风云</a>]</td>
+                    <td class="td3">
+		                <span>
+		                    <a class="jt" rel="#mydiv15" href="//www.17k.com/book/3611180.html" target="_blank" title="">玛利亚大教堂</a>						</span>
+                    </td>
+                    
+                    <td class="td4">
+                        <a href="//www.17k.com/chapter/3611180/49034421.html" target="_blank">第九章 勃列涅夫·乔维奇</a></td>
+                    <td class="td5">89383</td>
+                    <td class="td6"><a href="//user.17k.com/see/www/42403029.html" target="_blank" title="吴禹杭">吴禹杭</a></td>
+                    <td class="td7">2024-12-03 19:00</td>
+                    <td class="td8"><em class="fc2">
+                                                        完本
+                                            </em></td>
+                </tr>
+                                <tr class="bg1">
+                    <td class="td1">16</td>
+                    <td class="td2">[<a href="/all/book/2_14_128_0_3_0_1_0_1.html" target="_blank">末世危机</a>]</td>
+                    <td class="td3">
+		                <span>
+		                    <a class="jt" rel="#mydiv16" href="//www.17k.com/book/3402357.html" target="_blank" title="">极度灵长</a>						</span>
+                    </td>
+                    
+                    <td class="td4">
+                        <a href="//www.17k.com/chapter/3402357/49036737.html" target="_blank">完结感言</a></td>
+                    <td class="td5">35711</td>
+                    <td class="td6"><a href="//user.17k.com/see/www/92051295.html" target="_blank" title="过境狼">过境狼</a></td>
+                    <td class="td7">2024-12-01 21:47</td>
+                    <td class="td8"><em class="fc2">
+                                                        完本
+                                            </em></td>
+                </tr>
+                                <tr class="bg0">
+                    <td class="td1">17</td>
+                    <td class="td2">[<a href="/all/book/2_22_11_0_3_0_1_0_1.html" target="_blank">战争幻想</a>]</td>
+                    <td class="td3">
+		                <span>
+		                    <a class="jt" rel="#mydiv17" href="//www.17k.com/book/3611736.html" target="_blank" title="">阿克萨大洪水</a>						</span>
+                    </td>
+                    
+                    <td class="td4">
+                        <a href="//www.17k.com/chapter/3611736/49034377.html" target="_blank">第四章 发现</a></td>
+                    <td class="td5">63428</td>
+                    <td class="td6"><a href="//user.17k.com/see/www/103886248.html" target="_blank" title="渔家傲北海">渔家傲北海</a></td>
+                    <td class="td7">2024-11-30 15:17</td>
+                    <td class="td8"><em class="fc2">
+                                                        完本
+                                            </em></td>
+                </tr>
+                                <tr class="bg1">
+                    <td class="td1">18</td>
+                    <td class="td2">[<a href="/all/book/2_14_6_0_3_0_1_0_1.html" target="_blank">未来幻想</a>]</td>
+                    <td class="td3">
+		                <span>
+		                    <a class="jt" rel="#mydiv18" href="//www.17k.com/book/3597068.html" target="_blank" title="">破碎的方块2：NB世界</a>						</span>
+                    </td>
+                    
+                    <td class="td4">
+                        <a href="//www.17k.com/chapter/3597068/49029045.html" target="_blank">第五十八章 番外篇</a></td>
+                    <td class="td5">73424</td>
+                    <td class="td6"><a href="//user.17k.com/see/www/103484633.html" target="_blank" title="卡缪吴">卡缪吴</a></td>
+                    <td class="td7">2024-11-27 14:07</td>
+                    <td class="td8"><em class="fc2">
+                                                        完本
+                                            </em></td>
+                </tr>
+                                <tr class="bg0">
+                    <td class="td1">19</td>
+                    <td class="td2">[<a href="/all/book/2_21_83_0_3_0_1_0_1.html" target="_blank">异界大陆</a>]</td>
+                    <td class="td3">
+		                <span>
+		                    <a class="jt" rel="#mydiv19" href="//www.17k.com/book/3609270.html" target="_blank" title="">星辰契约：幻境之旅</a>						</span>
+                    </td>
+                    
+                    <td class="td4">
+                        <a href="//www.17k.com/chapter/3609270/48998888.html" target="_blank">55:星辰之力完全觉醒</a></td>
+                    <td class="td5">318452</td>
+                    <td class="td6"><a href="//user.17k.com/see/www/103849324.html" target="_blank" title="龙吟写手">龙吟写手</a></td>
+                    <td class="td7">2024-11-26 00:10</td>
+                    <td class="td8"><em class="fc2">
+                                                        完本
+                                            </em></td>
+                </tr>
+                                <tr class="bg1">
+                    <td class="td1">20</td>
+                    <td class="td2">[<a href="/all/book/2_3_87_0_3_0_1_0_1.html" target="_blank">都市异能</a>]</td>
+                    <td class="td3">
+		                <span>
+		                    <a class="jt" rel="#mydiv20" href="//www.17k.com/book/3598373.html" target="_blank" title="">文科生无用？我修武道你们慌什么</a><b class="qy" title="签约"></b>						</span>
+                    </td>
+                    
+                    <td class="td4">
+                        <a href="//www.17k.com/chapter/3598373/49022517.html" target="_blank">第159章：迷你小怪物</a></td>
+                    <td class="td5">332780</td>
+                    <td class="td6"><a href="//user.17k.com/see/www/27046929.html" target="_blank" title="夏山河">夏山河</a></td>
+                    <td class="td7">2024-11-23 14:30</td>
+                    <td class="td8"><em class="fc2">
+                                                        完本
+                                            </em></td>
+                </tr>
+                                <tr class="bg0">
+                    <td class="td1">21</td>
+                    <td class="td2">[<a href="/all/book/2_21_8_0_3_0_1_0_1.html" target="_blank">东方玄幻</a>]</td>
+                    <td class="td3">
+		                <span>
+		                    <a class="jt" rel="#mydiv21" href="//www.17k.com/book/3593120.html" target="_blank" title="">天龙八部之魔冢</a>						</span>
+                    </td>
+                    
+                    <td class="td4">
+                        <a href="//www.17k.com/chapter/3593120/49022490.html" target="_blank">第一千零三十章：尘埃落定</a></td>
+                    <td class="td5">2092625</td>
+                    <td class="td6"><a href="//user.17k.com/see/www/86492666.html" target="_blank" title="淡漠D石头">淡漠D石头</a></td>
+                    <td class="td7">2024-11-23 14:00</td>
+                    <td class="td8"><em class="fc2">
+                                                        完本
+                                            </em></td>
+                </tr>
+                                <tr class="bg1">
+                    <td class="td1">22</td>
+                    <td class="td2">[<a href="/all/book/2_3_89_0_3_0_1_0_1.html" target="_blank">都市重生</a>]</td>
+                    <td class="td3">
+		                <span>
+		                    <a class="jt" rel="#mydiv22" href="//www.17k.com/book/3609282.html" target="_blank" title="">重生后我为无上至尊</a><b class="qy" title="签约"></b>						</span>
+                    </td>
+                    
+                    <td class="td4">
+                        <a href="//www.17k.com/chapter/3609282/49021427.html" target="_blank">第四十六章楚莹的打算</a></td>
+                    <td class="td5">102142</td>
+                    <td class="td6"><a href="//user.17k.com/see/www/73964967.html" target="_blank" title="我念随心">我念随心</a></td>
+                    <td class="td7">2024-11-22 20:41</td>
+                    <td class="td8"><em class="fc2">
+                                                        完本
+                                            </em></td>
+                </tr>
+                                <tr class="bg0">
+                    <td class="td1">23</td>
+                    <td class="td2">[<a href="/all/book/2_3_3_0_3_0_1_0_1.html" target="_blank">都市生活</a>]</td>
+                    <td class="td3">
+		                <span>
+		                    <a class="jt" rel="#mydiv23" href="//www.17k.com/book/3610510.html" target="_blank" title="">以守护为誓</a><b class="qy" title="签约"></b>						</span>
+                    </td>
+                    
+                    <td class="td4">
+                        <a href="//www.17k.com/chapter/3610510/49018997.html" target="_blank">第二十四章 风云突变，转折突临</a></td>
+                    <td class="td5">55185</td>
+                    <td class="td6"><a href="//user.17k.com/see/www/103868507.html" target="_blank" title="五福星">五福星</a></td>
+                    <td class="td7">2024-11-21 15:37</td>
+                    <td class="td8"><em class="fc2">
+                                                        完本
+                                            </em></td>
+                </tr>
+                                <tr class="bg1">
+                    <td class="td1">24</td>
+                    <td class="td2">[<a href="/all/book/2_30_185_0_3_0_1_0_1.html" target="_blank">宅系小说</a>]</td>
+                    <td class="td3">
+		                <span>
+		                    <a class="jt" rel="#mydiv24" href="//www.17k.com/book/3609994.html" target="_blank" title="">申城恋曲2005</a>						</span>
+                    </td>
+                    
+                    <td class="td4">
+                        <a href="//www.17k.com/chapter/3609994/49017653.html" target="_blank">后记</a></td>
+                    <td class="td5">131111</td>
+                    <td class="td6"><a href="//user.17k.com/see/www/103859863.html" target="_blank" title="宁晋一夏">宁晋一夏</a></td>
+                    <td class="td7">2024-11-20 20:26</td>
+                    <td class="td8"><em class="fc2">
+                                                        完本
+                                            </em></td>
+                </tr>
+                                <tr class="bg0">
+                    <td class="td1">25</td>
+                    <td class="td2">[<a href="/all/book/2_24_9_0_3_0_1_0_1.html" target="_blank">古典仙侠</a>]</td>
+                    <td class="td3">
+		                <span>
+		                    <a class="jt" rel="#mydiv25" href="//www.17k.com/book/3610897.html" target="_blank" title="">剑问谪心</a>						</span>
+                    </td>
+                    
+                    <td class="td4">
+                        <a href="//www.17k.com/chapter/3610897/49017168.html" target="_blank">第三章：摘星古楼</a></td>
+                    <td class="td5">9680</td>
+                    <td class="td6"><a href="//user.17k.com/see/www/79683993.html" target="_blank" title="天策飞将">天策飞将</a></td>
+                    <td class="td7">2024-11-20 15:47</td>
+                    <td class="td8"><em class="fc2">
+                                                        完本
+                                            </em></td>
+                </tr>
+                                <tr class="bg1">
+                    <td class="td1">26</td>
+                    <td class="td2">[<a href="/all/book/2_30_184_0_3_0_1_0_1.html" target="_blank">男生同人</a>]</td>
+                    <td class="td3">
+		                <span>
+		                    <a class="jt" rel="#mydiv26" href="//www.17k.com/book/2764808.html" target="_blank" title="">米瑞斯之诺亚光辉</a>						</span>
+                    </td>
+                    
+                    <td class="td4">
+                        <a href="//www.17k.com/chapter/2764808/49017155.html" target="_blank">随记</a></td>
+                    <td class="td5">162205</td>
+                    <td class="td6"><a href="//user.17k.com/see/www/59242996.html" target="_blank" title="最初之峰">最初之峰</a></td>
+                    <td class="td7">2024-11-20 15:34</td>
+                    <td class="td8"><em class="fc2">
+                                                        完本
+                                            </em></td>
+                </tr>
+                                <tr class="bg0">
+                    <td class="td1">27</td>
+                    <td class="td2">[<a href="/all/book/2_21_8_0_3_0_1_0_1.html" target="_blank">东方玄幻</a>]</td>
+                    <td class="td3">
+		                <span>
+		                    <a class="jt" rel="#mydiv27" href="//www.17k.com/book/3608174.html" target="_blank" title="">我，护道人，偷摘女儿道果！</a><b class="qy" title="签约"></b>						</span>
+                    </td>
+                    
+                    <td class="td4">
+                        <a href="//www.17k.com/chapter/3608174/49015802.html" target="_blank">第126章：楚阳，死灵道果大成，灭灵咒！</a></td>
+                    <td class="td5">343982</td>
+                    <td class="td6"><a href="//user.17k.com/see/www/54805747.html" target="_blank" title="王六郎">王六郎</a></td>
+                    <td class="td7">2024-11-19 17:55</td>
+                    <td class="td8"><em class="fc2">
+                                                        完本
+                                            </em></td>
+                </tr>
+                                <tr class="bg1">
+                    <td class="td1">28</td>
+                    <td class="td2">[<a href="/all/book/2_3_3_0_3_0_1_0_1.html" target="_blank">都市生活</a>]</td>
+                    <td class="td3">
+		                <span>
+		                    <a class="jt" rel="#mydiv28" href="//www.17k.com/book/3607373.html" target="_blank" title="">对话80年代，囤货娇养村花</a><b class="qy" title="签约"></b>						</span>
+                    </td>
+                    
+                    <td class="td4">
+                        <a href="//www.17k.com/chapter/3607373/49015731.html" target="_blank">第八十二章 挂靠中科院</a></td>
+                    <td class="td5">166699</td>
+                    <td class="td6"><a href="//user.17k.com/see/www/32398668.html" target="_blank" title="撒豆成乒乓">撒豆成乒乓</a></td>
+                    <td class="td7">2024-11-19 17:17</td>
+                    <td class="td8"><em class="fc2">
+                                                        完本
+                                            </em></td>
+                </tr>
+                                <tr class="bg0">
+                    <td class="td1">29</td>
+                    <td class="td2">[<a href="/all/book/2_24_2_0_3_0_1_0_1.html" target="_blank">传统武侠</a>]</td>
+                    <td class="td3">
+		                <span>
+		                    <a class="jt" rel="#mydiv29" href="//www.17k.com/book/3607706.html" target="_blank" title="">落云传奇</a>						</span>
+                    </td>
+                    
+                    <td class="td4">
+                        <a href="//www.17k.com/chapter/3607706/49014867.html" target="_blank">作者声明：为虚构地名、人名提前致歉！</a></td>
+                    <td class="td5">212300</td>
+                    <td class="td6"><a href="//user.17k.com/see/www/103817697.html" target="_blank" title="信书闲书说东西">信书闲书说东西</a></td>
+                    <td class="td7">2024-11-19 00:53</td>
+                    <td class="td8"><em class="fc2">
+                                                        完本
+                                            </em></td>
+                </tr>
+                                <tr class="bg1">
+                    <td class="td1">30</td>
+                    <td class="td2">[<a href="/all/book/2_22_126_0_3_0_1_0_1.html" target="_blank">战史风云</a>]</td>
+                    <td class="td3">
+		                <span>
+		                    <a class="jt" rel="#mydiv30" href="//www.17k.com/book/3528566.html" target="_blank" title="">索菲亚大教堂</a>						</span>
+                    </td>
+                    
+                    <td class="td4">
+                        <a href="//www.17k.com/chapter/3528566/49013773.html" target="_blank">第28章 索菲亚·阿廖沙</a></td>
+                    <td class="td5">86991</td>
+                    <td class="td6"><a href="//user.17k.com/see/www/42403029.html" target="_blank" title="吴禹杭">吴禹杭</a></td>
+                    <td class="td7">2024-11-18 22:00</td>
+                    <td class="td8"><em class="fc2">
+                                                        完本
+                                            </em></td>
+                </tr>
+                
+                </tbody>
+            </table>
+        </div>
+                <div class="page">
+                        <a href="javascript:void(0);" class="on"><span>上一页</span></a>
+            
+            
+            
+            
+            
+            <a href="javascript:void(0);" class="on"><span>1</span></a>
+
+                        <a href="/all/book/2_0_0_0_3_0_1_0_2.html"><span>2</span></a>
+            
+                        <a href="/all/book/2_0_0_0_3_0_1_0_3.html"><span>3</span></a>
+            
+                        <a href="/all/book/2_0_0_0_3_0_1_0_4.html"><span>4</span></a>
+            
+                        <a href="/all/book/2_0_0_0_3_0_1_0_5.html"><span>5</span></a>
+            
+            ...
+
+                        <a href="/all/book/2_0_0_0_3_0_1_0_2.html"><span>下一页</span></a>
+            
+            共 149 页 <span>转到第 <input name="toPage" id="toPage" type="text"></span><span>页</span>
+            <a href="javascript:;" onclick="location.href='/all/book/2_0_0_0_3_0_1_0_1.html'.replace(/(\d+)\.html/,Number(window.toPage.value)+'.html')"><span>跳转</span></a>
+        </div>
+
+    </div>
+
+</div>
+
+<div style="width:1000px; margin:0 auto; text-align:center"><!-- xxxx --></div>
+
+<!-- foot -->
+
+<link rel="stylesheet" href="//static.17k.com/www/skin/17k_footer.css?v=0918">
+
+<div class="Footer">
+	<div class="footer_nav">
+		<a rel="nofollow" target="_blank" href="//www.17k.com/aboutus/">关于17k.com</a>　|　
+		<a rel="nofollow" target="_blank" href="//www.17k.com/aboutus/Cooperation.html">商务合作</a>　|　
+		<a target="_blank" href="//www.17k.com/aboutus/link.html">友情链接</a>　|　
+		<a rel="nofollow" target="_blank" href="//www.17k.com/Simple/contents/helpCenter/index.html">帮助中心</a>　|　
+		<a rel="nofollow" target="_blank" href="//www.17k.com/Simple/contents/login/Rdme.html">用户守则</a>　|　
+		<a target="_blank" href="//www.17k.com/aboutus/sitemap.html">网站地图</a>　|　
+		<a target="_blank" href="//www.17k.com/tags">小说标签</a>　|　
+		<a target="_blank" href="//www.17k.com/Simple/contents/helpCenter/index.html?typeId=39">动漫专栏</a>
+
+	</div>
+	<p>
+		Copyright (C) 2006-2022 www.17k.com All Rights Reserved 中文在线版权所有，
+		<a target="_blank" href="//www.17k.com/man/dushi/">都市小说</a>、
+		<a target="_blank" href="//www.17k.com/man/xianxiawuxia/">仙侠武侠</a>、
+		<a target="_blank" href="//www.17k.com/mm/">言情小说</a>等在线小说阅读网站，未经许可不得擅自转载本站内容。<br>
+		17K小说网所收录免费小说作品、社区话题、书友评论、用户上传文字、图片等其他一切内容均属用户个人行为，与17K小说网无关。--17K权利声明。<br>
+		京ICP证010590号　<a target="_blank" href="https://beian.miit.gov.cn">京ICP备09030667号-5</a>　　　京网文（2023)4750-133号　　 （署）网出证（京）字第112号
+		　　<a target="_blank" href="https://cdn.static.17k.com/material_picture/2024/1715161257067.png">营业执照</a>
+		　　<a target="_blank" href="https://cdn.static.17k.com/material_picture/2024/1715161246348.png">出版物经营许可证</a>
+		<br>
+		<img src="//cdn.static.17k.com/material_picture/2022/1654841315108.png" style="vertical-align: middle"><a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo" style="vertical-align: middle">京公安网备：11010102000012号</a><br>
+		违法和不良信息举报电话： 188 6819 3136 侵权内容及未成年信息举报邮箱：17Kjubao@col.com
+		<br>
+		公司名称：中文在线集团股份有限公司 地址：北京市东城区安定门东大街28号雍和大厦2号楼6层608
+	</p>
+
+	<p class="linkimg">
+		<!--<a href="https://ss.knet.cn/verifyseal.dll?sn=e13062011010041317xgep000000&amp;ct=df&amp;a=1&amp;pa=0.9085826601367444"
+		   target="_blank" kx_type="图标式">
+			<img src="//rr.knet.cn/static/images/logo/cnnic.png" alt="可信网站">
+		</a>
+		<a href="http://v.pinpaibao.com.cn/authenticate/cert/?site=www.17k.com&at=business" target="_blank">
+			<img src="//static.anquan.org/static/outer/image/hy_124x47.png" alt="安全联盟认证" width="124" height="47">
+		</a>-->
+		<a rel="nofollow" target="_blank" href="https://www.12377.cn/">
+			<img src="//static.17k.com/www/pic/icon_not.jpg" alt="不良网站举报">
+		</a>
+		<a target="_blank" href="http://www.shdf.gov.cn/shdf/channels/740.html">
+			<img src="//static.17k.com/www/pic/icon_not2.jpg" alt="扫黄打非举报入口">
+		</a>
+		<a target="_blank" href="https://www.12377.cn/jbxzxq/64d38691937611ebb858c9da04cf59d3_web.html">
+			<img src="//static.17k.com/www/pic/icon_not3.jpg" alt="历史虚无主义">
+		</a>
+	</p>
+</div>
+<script>
+	var _hmt = _hmt || [];
+	(function () {
+		var hm = document.createElement('script');
+		hm.src = 'https://hm.baidu.com/hm.js?9793f42b498361373512340937deb2a0';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(hm, s);
+	})();
+
+	if(k.domain ==='sfmystern.com' || k.domain === 'mixiangjihua.com' || location.href.includes('xuanyi.chineseall.net')){
+	  var headTitleDom = document.getElementsByTagName("title")[0]
+      headTitleDom.innerText =  headTitleDom.innerText.replace("17K小说网","谜想计划")
+	  k('.user-sign .box').style({display: 'none'})
+  }
+
+	if(k.domain ==='qixianghz.com' || location.href.includes('kehuan.chineseall.net')){
+	  var headTitleDom  = document.getElementsByTagName("title")[0]
+    headTitleDom.innerText =  headTitleDom.innerText.replace("17K小说网","奇想宇宙")
+  }
+</script>
+<script type="text/javascript" src="https://zz.bdstatic.com/linksubmit/push.js"></script>
+
+<script src="//static.17k.com/js/count.js?v=20200909" type="text/javascript"></script>
+
+
+<script type="text/javascript" src="//static.17k.com/www/js/helpBartool.js"></script>
+
+
+
+
+<div class="helpBartool"><a class="commu" href="javascript:;"><img src="//static.17k.com/www/skin/helpBartool/commu.png?v=1" srcset="//static.17k.com/www/skin/helpBartool/commu.png 2x"></a><a class="wx" href="javascript:;"><img src="//static.17k.com/www/skin/helpBartool/app.png" srcset="//static.17k.com/www/skin/helpBartool/app_2x.png 2x"></a><a class="kf_a" title="客服" href="javascript:;"></a><dl class="Kefu"><dd><p>电话(9:00-24:00)<br><strong>400 6175 217</strong></p><a href="javascript:;" id="17K_PC">在线客服</a><a target="_blank" href="//www.17k.com/Simple/contents/helpCenter/index.html?typeId=22">帮助反馈</a></dd></dl><a class="to" href="javascript:k.scrollTo()"></a></div></body></html>

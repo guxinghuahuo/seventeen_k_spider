@@ -97,11 +97,15 @@ FEED_EXPORT_ENCODING = "utf-8"
 
 SPLASH_URL = 'http://localhost:8050'  # 如果你使用的是本地 Docker 运行的 Splash
 
+#下载器中间件
 DOWNLOADER_MIDDLEWARES = {
-    'scrapy_splash.SplashMiddleware': 725,  # 启用 SplashMiddleware
+    'scrapy_splash.SplashCookiesMiddleware': 723,
+    'scrapy_splash.SplashMiddleware': 725,
     'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware': 810,
 }
 
+# 去重过滤器
 SPIDER_MIDDLEWARES = {
+    'scrapy_splash.SplashDeduplicateArgsMiddleware': 100,
     'scrapy_splash.SplashSpiderMiddleware': None,  # 移除 SplashSpiderMiddleware
 }
