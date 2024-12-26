@@ -16,7 +16,7 @@
 <link rel="stylesheet" href="//static.17k.com/www/skin/main.css?v=0918">
 <script type="text/javascript" src="//static.17k.com/www/js/main.js?v=0918"></script>
     <script src="//static.17k.com/www/js/index.js?v=0918" type="text/javascript"></script>
-    <link rel="stylesheet" href="//static.17k.com/www/skin/search/search.css?v=1735200879">
+    <link rel="stylesheet" href="//static.17k.com/www/skin/search/search.css?v=1735203944">
     <link rel="stylesheet" href="//static.17k.com/www/skin/search/tags-color.css">
     <link rel="stylesheet" href="//static.17k.com/www/skin/search/chosen.css">
     <script type="text/javascript" src="//static.17k.com/www/js/search.js" defer="" crossorigin=""></script>
@@ -136,7 +136,7 @@
             <a href="//www.17k.com/news/1021.html" target="_blank">[书库使用说明]</a>
         </span>
         <span class="tr1121">
-            17K全站共有3542958部作品
+            17K全站共有3542961部作品
         </span>
     </div>
 
